@@ -1,0 +1,1001 @@
+hotel_name,city,star_rating,per_night_price,currency
+Westin Beijing,Beijing,3,604,USD
+Mandarin Oriental Bangkok,Bangkok,3,79,USD
+Holiday Inn Tokyo,Tokyo,3,223,USD
+Hilton Toronto,Toronto,5,216,USD
+Radisson Blu Istanbul,Istanbul,4,577,USD
+Mandarin Oriental Hong Kong,Hong Kong,4,489,USD
+Hilton Hong Kong,Hong Kong,4,427,USD
+Ritz-Carlton Delhi,Delhi,3,604,USD
+Sheraton Moscow,Moscow,4,489,USD
+The Plaza Bangkok,Bangkok,4,198,USD
+Ritz-Carlton Delhi,Delhi,3,510,USD
+Grand Hyatt Tokyo,Tokyo,5,679,USD
+The Plaza Singapore,Singapore,5,539,USD
+Pullman Beijing,Beijing,5,526,USD
+Radisson Blu Los Angeles,Los Angeles,3,505,USD
+Marriott Delhi,Delhi,5,511,USD
+Radisson Blu London,London,5,559,USD
+Pullman Tokyo,Tokyo,3,494,USD
+InterContinental Frankfurt,Frankfurt,5,223,USD
+Shangri-La Delhi,Delhi,4,451,USD
+InterContinental Melbourne,Melbourne,3,385,USD
+Pullman Sydney,Sydney,5,130,USD
+Pullman Beijing,Beijing,3,394,USD
+Grand Hyatt Delhi,Delhi,3,204,USD
+InterContinental Madrid,Madrid,4,394,USD
+Ritz-Carlton Hong Kong,Hong Kong,3,241,USD
+Westin Tokyo,Tokyo,3,666,USD
+Shangri-La New York,New York,4,440,USD
+Four Seasons London,London,3,569,USD
+Shangri-La London,London,4,107,USD
+Shangri-La Dubai,Dubai,4,233,USD
+Shangri-La New York,New York,5,147,USD
+Mandarin Oriental Istanbul,Istanbul,4,180,USD
+Grand Hyatt Toronto,Toronto,3,94,USD
+Four Seasons Rome,Rome,5,229,USD
+InterContinental Rome,Rome,4,587,USD
+Marriott Hong Kong,Hong Kong,5,495,USD
+Westin Toronto,Toronto,3,74,USD
+Shangri-La New York,New York,5,143,USD
+Shangri-La Los Angeles,Los Angeles,5,156,USD
+Marriott Melbourne,Melbourne,4,569,USD
+The Plaza Los Angeles,Los Angeles,3,79,USD
+Mandarin Oriental Delhi,Delhi,3,470,USD
+Pullman Beijing,Beijing,5,672,USD
+The Plaza Dubai,Dubai,4,482,USD
+Pullman Paris,Paris,4,76,USD
+Pullman New York,New York,3,641,USD
+Pullman Istanbul,Istanbul,3,108,USD
+Pullman Beijing,Beijing,5,596,USD
+Holiday Inn Paris,Paris,4,699,USD
+Grand Hyatt London,London,5,336,USD
+Sheraton Sydney,Sydney,4,328,USD
+Holiday Inn Dubai,Dubai,5,362,USD
+The Plaza Moscow,Moscow,3,412,USD
+Mandarin Oriental New York,New York,3,63,USD
+Hilton Madrid,Madrid,4,91,USD
+Ritz-Carlton Dubai,Dubai,4,597,USD
+Shangri-La Delhi,Delhi,3,592,USD
+Marriott Istanbul,Istanbul,3,353,USD
+Hilton Dubai,Dubai,5,308,USD
+Hilton Istanbul,Istanbul,3,124,USD
+InterContinental Melbourne,Melbourne,5,624,USD
+Holiday Inn Los Angeles,Los Angeles,4,311,USD
+Marriott Tokyo,Tokyo,5,448,USD
+Sheraton Bangkok,Bangkok,5,207,USD
+Holiday Inn Istanbul,Istanbul,5,292,USD
+Four Seasons Hong Kong,Hong Kong,3,507,USD
+Westin Chicago,Chicago,3,468,USD
+Marriott Chicago,Chicago,5,228,USD
+Hilton Chicago,Chicago,3,308,USD
+Hilton Rome,Rome,5,594,USD
+Pullman Paris,Paris,3,251,USD
+Hilton Delhi,Delhi,3,99,USD
+Marriott Singapore,Singapore,5,147,USD
+Grand Hyatt Los Angeles,Los Angeles,4,530,USD
+Novotel Tokyo,Tokyo,4,237,USD
+Holiday Inn Chicago,Chicago,5,327,USD
+Novotel Singapore,Singapore,3,690,USD
+The Plaza Istanbul,Istanbul,4,481,USD
+The Plaza London,London,5,532,USD
+Hilton Beijing,Beijing,4,65,USD
+Shangri-La Sydney,Sydney,4,561,USD
+Grand Hyatt Frankfurt,Frankfurt,3,355,USD
+Grand Hyatt Singapore,Singapore,3,621,USD
+Radisson Blu Chicago,Chicago,4,408,USD
+Novotel Toronto,Toronto,4,236,USD
+Four Seasons Los Angeles,Los Angeles,5,166,USD
+Grand Hyatt Beijing,Beijing,3,392,USD
+Grand Hyatt Hong Kong,Hong Kong,4,352,USD
+Marriott Beijing,Beijing,5,202,USD
+Holiday Inn Frankfurt,Frankfurt,4,581,USD
+Hilton Beijing,Beijing,4,300,USD
+Grand Hyatt Los Angeles,Los Angeles,3,547,USD
+Hilton London,London,4,663,USD
+Radisson Blu London,London,4,377,USD
+InterContinental Bangkok,Bangkok,3,430,USD
+Novotel Singapore,Singapore,3,629,USD
+Ritz-Carlton Beijing,Beijing,5,440,USD
+The Plaza Madrid,Madrid,4,538,USD
+Holiday Inn Hong Kong,Hong Kong,3,195,USD
+Shangri-La Istanbul,Istanbul,5,255,USD
+Pullman Toronto,Toronto,3,337,USD
+Holiday Inn Singapore,Singapore,5,461,USD
+Ritz-Carlton Toronto,Toronto,5,423,USD
+Four Seasons Dubai,Dubai,5,420,USD
+InterContinental London,London,4,109,USD
+Hilton Melbourne,Melbourne,5,356,USD
+Mandarin Oriental Moscow,Moscow,3,472,USD
+Grand Hyatt Frankfurt,Frankfurt,4,493,USD
+Hilton Sydney,Sydney,5,551,USD
+Four Seasons Rome,Rome,4,490,USD
+Holiday Inn Frankfurt,Frankfurt,3,621,USD
+Holiday Inn Madrid,Madrid,3,336,USD
+The Plaza Madrid,Madrid,4,259,USD
+Radisson Blu Toronto,Toronto,5,699,USD
+Hilton Paris,Paris,4,517,USD
+Novotel Chicago,Chicago,3,305,USD
+Novotel Melbourne,Melbourne,5,301,USD
+Pullman Moscow,Moscow,5,97,USD
+Shangri-La Hong Kong,Hong Kong,5,127,USD
+The Plaza Tokyo,Tokyo,5,308,USD
+InterContinental Hong Kong,Hong Kong,5,333,USD
+Sheraton Paris,Paris,5,687,USD
+Mandarin Oriental Los Angeles,Los Angeles,3,609,USD
+Sheraton Paris,Paris,5,532,USD
+InterContinental Beijing,Beijing,4,450,USD
+Pullman Dubai,Dubai,3,435,USD
+Four Seasons Melbourne,Melbourne,5,128,USD
+Pullman Singapore,Singapore,3,103,USD
+Holiday Inn Dubai,Dubai,4,658,USD
+Marriott Sydney,Sydney,5,223,USD
+InterContinental Istanbul,Istanbul,3,562,USD
+Pullman London,London,3,574,USD
+Sheraton Paris,Paris,5,78,USD
+Ritz-Carlton Frankfurt,Frankfurt,4,391,USD
+Hilton Istanbul,Istanbul,5,352,USD
+Four Seasons Beijing,Beijing,4,400,USD
+Radisson Blu Tokyo,Tokyo,3,404,USD
+Radisson Blu Dubai,Dubai,4,152,USD
+Sheraton Sydney,Sydney,5,473,USD
+The Plaza Dubai,Dubai,4,545,USD
+Holiday Inn Istanbul,Istanbul,5,691,USD
+Novotel Los Angeles,Los Angeles,3,257,USD
+Hilton Frankfurt,Frankfurt,4,691,USD
+Marriott Istanbul,Istanbul,5,597,USD
+InterContinental London,London,4,273,USD
+Grand Hyatt Los Angeles,Los Angeles,5,563,USD
+Shangri-La Singapore,Singapore,3,383,USD
+Marriott Beijing,Beijing,4,130,USD
+Holiday Inn Singapore,Singapore,4,667,USD
+Hilton Paris,Paris,4,689,USD
+Marriott Hong Kong,Hong Kong,5,483,USD
+Novotel Beijing,Beijing,3,274,USD
+Mandarin Oriental Paris,Paris,4,678,USD
+Sheraton Tokyo,Tokyo,3,255,USD
+Marriott Tokyo,Tokyo,5,343,USD
+Pullman Delhi,Delhi,4,596,USD
+Holiday Inn Beijing,Beijing,5,167,USD
+Westin Tokyo,Tokyo,3,99,USD
+Westin Frankfurt,Frankfurt,3,79,USD
+Sheraton Madrid,Madrid,5,549,USD
+The Plaza Dubai,Dubai,4,207,USD
+Shangri-La Melbourne,Melbourne,4,182,USD
+Novotel Chicago,Chicago,3,585,USD
+Westin Istanbul,Istanbul,5,612,USD
+The Plaza Dubai,Dubai,4,99,USD
+Grand Hyatt Tokyo,Tokyo,5,108,USD
+Mandarin Oriental Bangkok,Bangkok,5,289,USD
+Westin London,London,5,591,USD
+Holiday Inn Frankfurt,Frankfurt,5,299,USD
+Shangri-La London,London,4,406,USD
+Sheraton Toronto,Toronto,4,173,USD
+Sheraton Hong Kong,Hong Kong,5,401,USD
+InterContinental Paris,Paris,4,565,USD
+Novotel Los Angeles,Los Angeles,5,272,USD
+Pullman London,London,3,561,USD
+Pullman Rome,Rome,5,127,USD
+Westin Los Angeles,Los Angeles,5,413,USD
+Pullman Rome,Rome,3,619,USD
+Grand Hyatt Bangkok,Bangkok,5,460,USD
+Shangri-La Frankfurt,Frankfurt,3,409,USD
+Hilton Beijing,Beijing,5,285,USD
+Radisson Blu Melbourne,Melbourne,5,118,USD
+Ritz-Carlton Paris,Paris,4,443,USD
+Hilton Madrid,Madrid,3,694,USD
+Westin Paris,Paris,5,500,USD
+Hilton Singapore,Singapore,4,331,USD
+Marriott Toronto,Toronto,5,449,USD
+Sheraton Frankfurt,Frankfurt,5,347,USD
+Ritz-Carlton Rome,Rome,4,237,USD
+Pullman New York,New York,3,680,USD
+Marriott Los Angeles,Los Angeles,3,206,USD
+Sheraton Paris,Paris,5,217,USD
+Four Seasons London,London,5,611,USD
+InterContinental Delhi,Delhi,4,350,USD
+Radisson Blu Chicago,Chicago,4,643,USD
+Novotel Beijing,Beijing,3,65,USD
+Grand Hyatt Beijing,Beijing,3,177,USD
+Mandarin Oriental Los Angeles,Los Angeles,4,424,USD
+InterContinental Tokyo,Tokyo,5,513,USD
+Hilton Dubai,Dubai,3,453,USD
+Sheraton Frankfurt,Frankfurt,3,460,USD
+The Plaza Singapore,Singapore,5,459,USD
+The Plaza Sydney,Sydney,4,223,USD
+Westin Moscow,Moscow,3,168,USD
+Westin Los Angeles,Los Angeles,4,514,USD
+Hilton Istanbul,Istanbul,3,570,USD
+Shangri-La Istanbul,Istanbul,4,624,USD
+Radisson Blu Singapore,Singapore,5,596,USD
+Shangri-La Rome,Rome,5,547,USD
+Shangri-La Tokyo,Tokyo,3,110,USD
+Shangri-La Istanbul,Istanbul,3,279,USD
+Four Seasons Hong Kong,Hong Kong,3,130,USD
+The Plaza Paris,Paris,5,502,USD
+Shangri-La Sydney,Sydney,5,86,USD
+Radisson Blu Sydney,Sydney,5,549,USD
+Radisson Blu Bangkok,Bangkok,4,493,USD
+Holiday Inn Istanbul,Istanbul,5,429,USD
+Grand Hyatt Toronto,Toronto,4,101,USD
+Radisson Blu Tokyo,Tokyo,5,353,USD
+Shangri-La Los Angeles,Los Angeles,5,554,USD
+Ritz-Carlton Moscow,Moscow,4,335,USD
+Novotel Toronto,Toronto,4,492,USD
+Ritz-Carlton London,London,5,609,USD
+Westin New York,New York,3,603,USD
+Pullman Hong Kong,Hong Kong,3,496,USD
+Marriott Sydney,Sydney,3,196,USD
+Radisson Blu Tokyo,Tokyo,4,414,USD
+Ritz-Carlton Frankfurt,Frankfurt,4,369,USD
+Ritz-Carlton Dubai,Dubai,3,622,USD
+Shangri-La Frankfurt,Frankfurt,3,107,USD
+Ritz-Carlton Tokyo,Tokyo,3,314,USD
+Four Seasons Los Angeles,Los Angeles,5,102,USD
+Pullman Sydney,Sydney,5,217,USD
+Novotel Madrid,Madrid,5,145,USD
+Four Seasons Bangkok,Bangkok,4,492,USD
+Westin Rome,Rome,3,382,USD
+Novotel Tokyo,Tokyo,4,451,USD
+Novotel New York,New York,4,152,USD
+Pullman Los Angeles,Los Angeles,3,432,USD
+Marriott London,London,3,459,USD
+Shangri-La Istanbul,Istanbul,4,66,USD
+Grand Hyatt Hong Kong,Hong Kong,4,551,USD
+Radisson Blu Hong Kong,Hong Kong,5,228,USD
+Pullman Beijing,Beijing,3,138,USD
+Hilton Hong Kong,Hong Kong,4,267,USD
+Pullman Rome,Rome,5,456,USD
+Mandarin Oriental New York,New York,5,167,USD
+Westin Rome,Rome,5,477,USD
+Hilton Dubai,Dubai,4,684,USD
+Four Seasons Chicago,Chicago,3,316,USD
+Sheraton Singapore,Singapore,5,178,USD
+Grand Hyatt Melbourne,Melbourne,4,91,USD
+The Plaza Singapore,Singapore,3,494,USD
+Four Seasons Sydney,Sydney,4,400,USD
+Shangri-La Madrid,Madrid,5,483,USD
+Shangri-La Toronto,Toronto,3,341,USD
+Radisson Blu Tokyo,Tokyo,5,375,USD
+Four Seasons New York,New York,5,493,USD
+Novotel New York,New York,3,559,USD
+Pullman Melbourne,Melbourne,4,173,USD
+Holiday Inn Rome,Rome,4,643,USD
+Radisson Blu Toronto,Toronto,5,404,USD
+Ritz-Carlton Beijing,Beijing,5,381,USD
+Radisson Blu Los Angeles,Los Angeles,3,225,USD
+Grand Hyatt Sydney,Sydney,3,115,USD
+Pullman Tokyo,Tokyo,4,681,USD
+Ritz-Carlton Rome,Rome,3,680,USD
+InterContinental Paris,Paris,4,449,USD
+Marriott London,London,5,63,USD
+Shangri-La Singapore,Singapore,3,103,USD
+Marriott Sydney,Sydney,4,492,USD
+Four Seasons Hong Kong,Hong Kong,3,179,USD
+Novotel Istanbul,Istanbul,3,229,USD
+Ritz-Carlton New York,New York,5,545,USD
+Grand Hyatt Singapore,Singapore,3,447,USD
+Holiday Inn Sydney,Sydney,5,146,USD
+Grand Hyatt Hong Kong,Hong Kong,4,355,USD
+Sheraton Delhi,Delhi,5,198,USD
+Ritz-Carlton Singapore,Singapore,4,175,USD
+Four Seasons Toronto,Toronto,4,165,USD
+Grand Hyatt Chicago,Chicago,4,497,USD
+Shangri-La Frankfurt,Frankfurt,3,497,USD
+Mandarin Oriental Dubai,Dubai,3,293,USD
+InterContinental New York,New York,4,142,USD
+Radisson Blu Beijing,Beijing,5,563,USD
+The Plaza Beijing,Beijing,3,222,USD
+Four Seasons Sydney,Sydney,5,73,USD
+Marriott London,London,3,399,USD
+Radisson Blu Melbourne,Melbourne,4,471,USD
+Four Seasons Delhi,Delhi,5,285,USD
+Shangri-La Istanbul,Istanbul,4,431,USD
+Four Seasons Istanbul,Istanbul,3,648,USD
+Pullman Paris,Paris,5,227,USD
+The Plaza Melbourne,Melbourne,5,488,USD
+Mandarin Oriental Moscow,Moscow,3,607,USD
+Holiday Inn Melbourne,Melbourne,3,607,USD
+Mandarin Oriental Bangkok,Bangkok,3,484,USD
+Holiday Inn Los Angeles,Los Angeles,3,622,USD
+Ritz-Carlton Bangkok,Bangkok,3,366,USD
+Holiday Inn London,London,4,276,USD
+Grand Hyatt New York,New York,3,526,USD
+Novotel Frankfurt,Frankfurt,3,332,USD
+Shangri-La Delhi,Delhi,4,335,USD
+Radisson Blu Paris,Paris,3,372,USD
+Hilton Rome,Rome,3,595,USD
+Ritz-Carlton Rome,Rome,5,678,USD
+Pullman Moscow,Moscow,5,412,USD
+Westin Paris,Paris,4,68,USD
+Pullman Chicago,Chicago,4,291,USD
+Holiday Inn Sydney,Sydney,5,590,USD
+Shangri-La New York,New York,4,192,USD
+Ritz-Carlton Sydney,Sydney,3,522,USD
+InterContinental Hong Kong,Hong Kong,3,232,USD
+Marriott Toronto,Toronto,4,609,USD
+Shangri-La Los Angeles,Los Angeles,5,356,USD
+InterContinental Chicago,Chicago,3,568,USD
+Sheraton Rome,Rome,3,654,USD
+Sheraton Sydney,Sydney,5,134,USD
+Mandarin Oriental Los Angeles,Los Angeles,3,108,USD
+Hilton Sydney,Sydney,5,374,USD
+Four Seasons Singapore,Singapore,4,568,USD
+Mandarin Oriental Hong Kong,Hong Kong,5,695,USD
+Holiday Inn Paris,Paris,3,139,USD
+Novotel Frankfurt,Frankfurt,3,536,USD
+Sheraton Toronto,Toronto,4,439,USD
+Four Seasons Moscow,Moscow,3,567,USD
+Holiday Inn Bangkok,Bangkok,3,675,USD
+Sheraton Paris,Paris,5,103,USD
+Radisson Blu New York,New York,3,228,USD
+Radisson Blu Beijing,Beijing,3,321,USD
+The Plaza Los Angeles,Los Angeles,3,305,USD
+Shangri-La Toronto,Toronto,4,697,USD
+Four Seasons London,London,3,677,USD
+Grand Hyatt Paris,Paris,5,262,USD
+Marriott Paris,Paris,5,682,USD
+Grand Hyatt Toronto,Toronto,5,102,USD
+Grand Hyatt Hong Kong,Hong Kong,5,324,USD
+InterContinental Dubai,Dubai,4,496,USD
+Westin Toronto,Toronto,4,122,USD
+Radisson Blu Delhi,Delhi,4,480,USD
+Four Seasons Istanbul,Istanbul,5,468,USD
+Radisson Blu London,London,3,349,USD
+Holiday Inn Chicago,Chicago,3,525,USD
+Four Seasons Delhi,Delhi,5,82,USD
+Sheraton Toronto,Toronto,4,482,USD
+Westin Melbourne,Melbourne,4,74,USD
+Hilton Paris,Paris,3,333,USD
+InterContinental Beijing,Beijing,4,627,USD
+The Plaza Rome,Rome,5,100,USD
+Mandarin Oriental Delhi,Delhi,5,352,USD
+The Plaza Tokyo,Tokyo,5,324,USD
+Hilton Delhi,Delhi,3,175,USD
+The Plaza Los Angeles,Los Angeles,4,619,USD
+Radisson Blu Hong Kong,Hong Kong,5,658,USD
+Pullman Dubai,Dubai,4,381,USD
+Hilton Toronto,Toronto,3,694,USD
+Four Seasons Paris,Paris,5,383,USD
+InterContinental Sydney,Sydney,4,225,USD
+Hilton Frankfurt,Frankfurt,5,396,USD
+Shangri-La Beijing,Beijing,3,225,USD
+Grand Hyatt Melbourne,Melbourne,3,295,USD
+Hilton Toronto,Toronto,4,688,USD
+Holiday Inn Singapore,Singapore,5,457,USD
+Sheraton Toronto,Toronto,3,284,USD
+Hilton Delhi,Delhi,3,192,USD
+Ritz-Carlton Bangkok,Bangkok,5,222,USD
+Grand Hyatt Los Angeles,Los Angeles,5,334,USD
+Grand Hyatt New York,New York,5,242,USD
+Grand Hyatt Sydney,Sydney,3,305,USD
+Holiday Inn Singapore,Singapore,4,94,USD
+Shangri-La Delhi,Delhi,3,246,USD
+Hilton Hong Kong,Hong Kong,3,101,USD
+Mandarin Oriental Los Angeles,Los Angeles,3,94,USD
+Sheraton Sydney,Sydney,3,146,USD
+Westin Dubai,Dubai,3,687,USD
+Mandarin Oriental Paris,Paris,4,574,USD
+InterContinental Istanbul,Istanbul,5,571,USD
+Ritz-Carlton Moscow,Moscow,5,696,USD
+Holiday Inn Singapore,Singapore,5,314,USD
+Marriott Bangkok,Bangkok,5,233,USD
+Shangri-La Moscow,Moscow,4,290,USD
+Four Seasons Moscow,Moscow,5,152,USD
+The Plaza Delhi,Delhi,5,654,USD
+Novotel Sydney,Sydney,4,283,USD
+Marriott New York,New York,5,88,USD
+Ritz-Carlton Los Angeles,Los Angeles,4,82,USD
+Novotel Toronto,Toronto,4,145,USD
+Marriott Chicago,Chicago,3,361,USD
+Mandarin Oriental Paris,Paris,3,608,USD
+Sheraton New York,New York,5,124,USD
+Holiday Inn Moscow,Moscow,5,473,USD
+The Plaza Bangkok,Bangkok,4,156,USD
+Mandarin Oriental Hong Kong,Hong Kong,5,318,USD
+Holiday Inn London,London,3,239,USD
+Mandarin Oriental Los Angeles,Los Angeles,3,646,USD
+Radisson Blu Tokyo,Tokyo,4,172,USD
+The Plaza Hong Kong,Hong Kong,5,161,USD
+Novotel Beijing,Beijing,5,308,USD
+The Plaza Beijing,Beijing,3,567,USD
+Grand Hyatt Paris,Paris,5,308,USD
+Grand Hyatt Rome,Rome,4,228,USD
+Marriott Toronto,Toronto,3,96,USD
+InterContinental Frankfurt,Frankfurt,3,219,USD
+Grand Hyatt Melbourne,Melbourne,4,517,USD
+Hilton Delhi,Delhi,5,82,USD
+InterContinental Delhi,Delhi,4,192,USD
+Shangri-La Los Angeles,Los Angeles,5,231,USD
+Pullman Paris,Paris,3,259,USD
+Mandarin Oriental Frankfurt,Frankfurt,5,88,USD
+Grand Hyatt Madrid,Madrid,3,168,USD
+Grand Hyatt Melbourne,Melbourne,5,259,USD
+Grand Hyatt Istanbul,Istanbul,4,296,USD
+Shangri-La Beijing,Beijing,5,671,USD
+Pullman London,London,4,470,USD
+Pullman Hong Kong,Hong Kong,4,140,USD
+Radisson Blu Chicago,Chicago,3,125,USD
+Novotel Tokyo,Tokyo,5,67,USD
+Ritz-Carlton New York,New York,5,612,USD
+Shangri-La Paris,Paris,5,63,USD
+Ritz-Carlton Toronto,Toronto,4,245,USD
+Ritz-Carlton Moscow,Moscow,4,480,USD
+The Plaza Istanbul,Istanbul,4,392,USD
+Shangri-La Istanbul,Istanbul,3,565,USD
+The Plaza Singapore,Singapore,4,104,USD
+Westin Chicago,Chicago,4,282,USD
+Grand Hyatt Frankfurt,Frankfurt,4,116,USD
+Marriott Toronto,Toronto,5,289,USD
+Radisson Blu Rome,Rome,3,85,USD
+Pullman Moscow,Moscow,5,603,USD
+Grand Hyatt Tokyo,Tokyo,3,120,USD
+Marriott Sydney,Sydney,4,149,USD
+InterContinental Istanbul,Istanbul,5,218,USD
+Westin Singapore,Singapore,4,306,USD
+Marriott Melbourne,Melbourne,5,175,USD
+Hilton Paris,Paris,4,320,USD
+Radisson Blu Singapore,Singapore,4,324,USD
+Pullman Rome,Rome,3,88,USD
+Four Seasons Beijing,Beijing,4,584,USD
+Sheraton Frankfurt,Frankfurt,5,168,USD
+Westin Sydney,Sydney,4,527,USD
+Mandarin Oriental Chicago,Chicago,5,190,USD
+Grand Hyatt Moscow,Moscow,3,225,USD
+Grand Hyatt Paris,Paris,5,668,USD
+Holiday Inn Moscow,Moscow,4,179,USD
+Novotel Los Angeles,Los Angeles,4,320,USD
+The Plaza Tokyo,Tokyo,3,274,USD
+Novotel Istanbul,Istanbul,5,445,USD
+Mandarin Oriental Madrid,Madrid,5,609,USD
+Mandarin Oriental Hong Kong,Hong Kong,4,79,USD
+Sheraton New York,New York,3,194,USD
+Holiday Inn Los Angeles,Los Angeles,4,320,USD
+Mandarin Oriental Melbourne,Melbourne,4,566,USD
+Shangri-La Moscow,Moscow,4,103,USD
+Pullman Singapore,Singapore,5,346,USD
+Marriott Frankfurt,Frankfurt,5,467,USD
+Radisson Blu Moscow,Moscow,5,206,USD
+Mandarin Oriental Frankfurt,Frankfurt,3,90,USD
+Novotel Chicago,Chicago,5,552,USD
+Holiday Inn Los Angeles,Los Angeles,5,136,USD
+Shangri-La Melbourne,Melbourne,4,252,USD
+Hilton Moscow,Moscow,4,393,USD
+The Plaza London,London,5,439,USD
+The Plaza Bangkok,Bangkok,3,263,USD
+Marriott Frankfurt,Frankfurt,5,443,USD
+Grand Hyatt London,London,3,368,USD
+Radisson Blu Istanbul,Istanbul,5,689,USD
+Marriott Istanbul,Istanbul,5,605,USD
+Marriott New York,New York,5,520,USD
+Radisson Blu Istanbul,Istanbul,3,305,USD
+Four Seasons Melbourne,Melbourne,5,150,USD
+Novotel Paris,Paris,5,106,USD
+Westin Hong Kong,Hong Kong,3,302,USD
+Radisson Blu Melbourne,Melbourne,5,569,USD
+Sheraton Tokyo,Tokyo,4,486,USD
+Westin Beijing,Beijing,3,619,USD
+Hilton Beijing,Beijing,4,76,USD
+Novotel Moscow,Moscow,4,532,USD
+Shangri-La Singapore,Singapore,5,478,USD
+Mandarin Oriental Toronto,Toronto,3,180,USD
+Four Seasons Istanbul,Istanbul,3,227,USD
+Pullman Beijing,Beijing,5,317,USD
+Mandarin Oriental London,London,3,525,USD
+Ritz-Carlton Melbourne,Melbourne,4,156,USD
+Novotel Toronto,Toronto,5,73,USD
+Novotel Frankfurt,Frankfurt,4,416,USD
+Mandarin Oriental Madrid,Madrid,4,223,USD
+InterContinental Toronto,Toronto,3,77,USD
+Shangri-La Istanbul,Istanbul,5,530,USD
+Hilton Istanbul,Istanbul,4,86,USD
+Radisson Blu Rome,Rome,4,133,USD
+Hilton Hong Kong,Hong Kong,3,225,USD
+Sheraton Toronto,Toronto,4,529,USD
+Radisson Blu Hong Kong,Hong Kong,3,177,USD
+Hilton Beijing,Beijing,4,463,USD
+Four Seasons Beijing,Beijing,3,327,USD
+Marriott Istanbul,Istanbul,5,343,USD
+The Plaza Delhi,Delhi,4,90,USD
+Radisson Blu Sydney,Sydney,4,299,USD
+InterContinental Hong Kong,Hong Kong,4,119,USD
+Westin Toronto,Toronto,3,62,USD
+The Plaza Sydney,Sydney,5,471,USD
+Marriott Paris,Paris,5,301,USD
+Marriott Rome,Rome,5,660,USD
+Sheraton Sydney,Sydney,3,677,USD
+Mandarin Oriental Dubai,Dubai,5,417,USD
+Novotel Tokyo,Tokyo,3,155,USD
+Four Seasons Frankfurt,Frankfurt,3,590,USD
+Marriott Chicago,Chicago,5,652,USD
+Shangri-La Paris,Paris,3,327,USD
+Shangri-La Delhi,Delhi,3,552,USD
+Shangri-La Chicago,Chicago,4,531,USD
+The Plaza London,London,5,334,USD
+Four Seasons Madrid,Madrid,5,370,USD
+Westin Paris,Paris,5,456,USD
+InterContinental Delhi,Delhi,3,554,USD
+Westin Singapore,Singapore,3,609,USD
+Novotel New York,New York,3,446,USD
+Westin Los Angeles,Los Angeles,3,581,USD
+Shangri-La Los Angeles,Los Angeles,4,66,USD
+Four Seasons Chicago,Chicago,3,671,USD
+The Plaza Bangkok,Bangkok,3,238,USD
+Mandarin Oriental Beijing,Beijing,5,215,USD
+Westin Chicago,Chicago,3,699,USD
+Four Seasons New York,New York,4,535,USD
+Four Seasons Singapore,Singapore,4,536,USD
+Ritz-Carlton Frankfurt,Frankfurt,4,245,USD
+Grand Hyatt Delhi,Delhi,5,227,USD
+Hilton Hong Kong,Hong Kong,4,483,USD
+Ritz-Carlton New York,New York,4,578,USD
+Radisson Blu Chicago,Chicago,5,203,USD
+Pullman Frankfurt,Frankfurt,4,472,USD
+Novotel Sydney,Sydney,3,368,USD
+The Plaza Moscow,Moscow,3,69,USD
+Marriott Sydney,Sydney,5,318,USD
+Westin Melbourne,Melbourne,4,501,USD
+Westin Hong Kong,Hong Kong,5,247,USD
+Marriott Hong Kong,Hong Kong,3,620,USD
+Westin Singapore,Singapore,3,545,USD
+The Plaza London,London,5,621,USD
+Grand Hyatt Chicago,Chicago,5,411,USD
+InterContinental Madrid,Madrid,5,437,USD
+Four Seasons Los Angeles,Los Angeles,4,509,USD
+Mandarin Oriental Toronto,Toronto,3,235,USD
+Grand Hyatt Los Angeles,Los Angeles,5,238,USD
+Shangri-La Istanbul,Istanbul,3,646,USD
+Radisson Blu Singapore,Singapore,5,526,USD
+Four Seasons Rome,Rome,5,378,USD
+Sheraton Beijing,Beijing,5,456,USD
+Westin Melbourne,Melbourne,3,174,USD
+Ritz-Carlton Frankfurt,Frankfurt,4,154,USD
+Novotel Moscow,Moscow,3,449,USD
+Marriott Dubai,Dubai,4,233,USD
+Westin Tokyo,Tokyo,4,678,USD
+Grand Hyatt Rome,Rome,3,576,USD
+Mandarin Oriental London,London,5,542,USD
+Shangri-La Los Angeles,Los Angeles,4,76,USD
+Mandarin Oriental Melbourne,Melbourne,4,659,USD
+Holiday Inn Madrid,Madrid,4,308,USD
+Pullman London,London,5,300,USD
+Ritz-Carlton Singapore,Singapore,5,459,USD
+Sheraton London,London,3,204,USD
+Holiday Inn Beijing,Beijing,3,218,USD
+Shangri-La Los Angeles,Los Angeles,4,379,USD
+Four Seasons Dubai,Dubai,5,506,USD
+Sheraton Moscow,Moscow,4,685,USD
+The Plaza New York,New York,4,458,USD
+Mandarin Oriental Los Angeles,Los Angeles,5,423,USD
+The Plaza Istanbul,Istanbul,4,289,USD
+Four Seasons Bangkok,Bangkok,3,446,USD
+InterContinental New York,New York,3,612,USD
+InterContinental Chicago,Chicago,5,359,USD
+Hilton Melbourne,Melbourne,5,541,USD
+Marriott Paris,Paris,5,658,USD
+Novotel Singapore,Singapore,3,338,USD
+Four Seasons New York,New York,5,527,USD
+Westin Moscow,Moscow,4,228,USD
+Holiday Inn London,London,4,478,USD
+Novotel Moscow,Moscow,5,466,USD
+Hilton Los Angeles,Los Angeles,3,95,USD
+Mandarin Oriental Paris,Paris,5,461,USD
+Mandarin Oriental Madrid,Madrid,5,321,USD
+Ritz-Carlton Hong Kong,Hong Kong,5,605,USD
+Grand Hyatt Tokyo,Tokyo,3,663,USD
+Radisson Blu Tokyo,Tokyo,4,678,USD
+Grand Hyatt Delhi,Delhi,3,138,USD
+Shangri-La Madrid,Madrid,4,589,USD
+Pullman Istanbul,Istanbul,4,92,USD
+Grand Hyatt Madrid,Madrid,3,190,USD
+Ritz-Carlton Chicago,Chicago,5,625,USD
+Pullman London,London,5,532,USD
+The Plaza Bangkok,Bangkok,5,128,USD
+Holiday Inn Madrid,Madrid,3,74,USD
+Radisson Blu London,London,3,199,USD
+Sheraton New York,New York,4,533,USD
+Westin London,London,5,586,USD
+Four Seasons London,London,4,413,USD
+Novotel Beijing,Beijing,4,77,USD
+Mandarin Oriental Hong Kong,Hong Kong,4,577,USD
+Hilton Paris,Paris,4,382,USD
+Hilton Los Angeles,Los Angeles,5,106,USD
+Holiday Inn Tokyo,Tokyo,3,684,USD
+Shangri-La Chicago,Chicago,5,176,USD
+Shangri-La London,London,4,568,USD
+Grand Hyatt Madrid,Madrid,3,190,USD
+Ritz-Carlton Los Angeles,Los Angeles,4,216,USD
+Novotel Sydney,Sydney,4,86,USD
+Radisson Blu Chicago,Chicago,5,448,USD
+Sheraton Istanbul,Istanbul,3,552,USD
+Holiday Inn New York,New York,5,486,USD
+Novotel Singapore,Singapore,3,547,USD
+Novotel Tokyo,Tokyo,3,375,USD
+Holiday Inn Dubai,Dubai,3,180,USD
+Holiday Inn Delhi,Delhi,3,199,USD
+Marriott Tokyo,Tokyo,3,472,USD
+The Plaza Chicago,Chicago,4,170,USD
+Ritz-Carlton Hong Kong,Hong Kong,5,393,USD
+Hilton Hong Kong,Hong Kong,4,301,USD
+Sheraton London,London,4,94,USD
+Radisson Blu Madrid,Madrid,3,520,USD
+Novotel Sydney,Sydney,3,271,USD
+Mandarin Oriental Tokyo,Tokyo,5,65,USD
+Grand Hyatt Rome,Rome,5,428,USD
+Mandarin Oriental Singapore,Singapore,4,540,USD
+InterContinental London,London,5,545,USD
+Novotel Sydney,Sydney,4,142,USD
+Grand Hyatt Paris,Paris,3,467,USD
+Four Seasons Dubai,Dubai,3,592,USD
+Radisson Blu Madrid,Madrid,5,697,USD
+Grand Hyatt Istanbul,Istanbul,3,450,USD
+Marriott Paris,Paris,4,604,USD
+Pullman Delhi,Delhi,4,528,USD
+Radisson Blu Toronto,Toronto,3,289,USD
+The Plaza Los Angeles,Los Angeles,4,647,USD
+Shangri-La Hong Kong,Hong Kong,3,657,USD
+Novotel Toronto,Toronto,4,481,USD
+Novotel New York,New York,4,471,USD
+Hilton Moscow,Moscow,4,86,USD
+Holiday Inn Moscow,Moscow,5,135,USD
+Pullman Frankfurt,Frankfurt,4,525,USD
+Ritz-Carlton Toronto,Toronto,3,398,USD
+Novotel Frankfurt,Frankfurt,5,166,USD
+Holiday Inn Delhi,Delhi,4,205,USD
+Radisson Blu Sydney,Sydney,5,373,USD
+Ritz-Carlton London,London,3,99,USD
+Four Seasons Sydney,Sydney,4,691,USD
+Hilton Los Angeles,Los Angeles,3,602,USD
+Pullman Beijing,Beijing,3,305,USD
+Grand Hyatt Frankfurt,Frankfurt,4,425,USD
+Shangri-La Singapore,Singapore,5,240,USD
+The Plaza Los Angeles,Los Angeles,3,183,USD
+The Plaza Melbourne,Melbourne,5,379,USD
+Shangri-La Delhi,Delhi,4,183,USD
+Grand Hyatt Sydney,Sydney,5,558,USD
+Radisson Blu Toronto,Toronto,4,516,USD
+Pullman Los Angeles,Los Angeles,4,694,USD
+Sheraton Bangkok,Bangkok,5,328,USD
+Four Seasons New York,New York,5,580,USD
+Sheraton Dubai,Dubai,4,235,USD
+Pullman Delhi,Delhi,5,117,USD
+Grand Hyatt Melbourne,Melbourne,3,440,USD
+Marriott Bangkok,Bangkok,3,372,USD
+Mandarin Oriental Madrid,Madrid,4,490,USD
+Novotel Chicago,Chicago,3,518,USD
+Ritz-Carlton Frankfurt,Frankfurt,3,164,USD
+Hilton Sydney,Sydney,5,419,USD
+Mandarin Oriental Madrid,Madrid,5,136,USD
+Four Seasons Delhi,Delhi,3,256,USD
+Mandarin Oriental Paris,Paris,5,267,USD
+Novotel Tokyo,Tokyo,4,571,USD
+Ritz-Carlton Moscow,Moscow,5,484,USD
+Radisson Blu Dubai,Dubai,5,660,USD
+Novotel Beijing,Beijing,5,507,USD
+InterContinental Hong Kong,Hong Kong,4,491,USD
+Hilton New York,New York,5,144,USD
+Mandarin Oriental Beijing,Beijing,5,235,USD
+Sheraton Frankfurt,Frankfurt,3,163,USD
+Grand Hyatt New York,New York,3,137,USD
+Shangri-La Frankfurt,Frankfurt,3,176,USD
+Novotel New York,New York,5,564,USD
+Hilton Toronto,Toronto,3,93,USD
+Hilton London,London,5,629,USD
+Novotel Delhi,Delhi,5,653,USD
+Novotel Toronto,Toronto,3,667,USD
+Radisson Blu Sydney,Sydney,5,500,USD
+Westin Hong Kong,Hong Kong,4,152,USD
+Hilton Toronto,Toronto,3,310,USD
+Novotel Beijing,Beijing,3,159,USD
+Novotel Bangkok,Bangkok,3,319,USD
+The Plaza Moscow,Moscow,3,444,USD
+Pullman Paris,Paris,3,230,USD
+Ritz-Carlton Chicago,Chicago,3,356,USD
+InterContinental Bangkok,Bangkok,3,66,USD
+Holiday Inn Paris,Paris,3,333,USD
+Radisson Blu Los Angeles,Los Angeles,5,694,USD
+Westin Los Angeles,Los Angeles,4,532,USD
+Novotel Hong Kong,Hong Kong,3,264,USD
+Grand Hyatt Melbourne,Melbourne,3,389,USD
+Hilton Toronto,Toronto,5,165,USD
+Sheraton Singapore,Singapore,4,118,USD
+Hilton Los Angeles,Los Angeles,5,359,USD
+InterContinental Tokyo,Tokyo,5,606,USD
+Ritz-Carlton Paris,Paris,5,679,USD
+Pullman Singapore,Singapore,5,572,USD
+Mandarin Oriental London,London,4,275,USD
+Radisson Blu Los Angeles,Los Angeles,5,509,USD
+Mandarin Oriental Istanbul,Istanbul,5,329,USD
+Mandarin Oriental Istanbul,Istanbul,3,167,USD
+The Plaza New York,New York,3,75,USD
+InterContinental Toronto,Toronto,3,476,USD
+InterContinental Istanbul,Istanbul,4,83,USD
+Mandarin Oriental Beijing,Beijing,4,397,USD
+Ritz-Carlton Dubai,Dubai,3,453,USD
+Pullman Singapore,Singapore,5,97,USD
+Ritz-Carlton Melbourne,Melbourne,5,406,USD
+The Plaza Dubai,Dubai,4,196,USD
+Pullman Beijing,Beijing,4,537,USD
+Hilton Los Angeles,Los Angeles,3,227,USD
+Marriott Frankfurt,Frankfurt,5,259,USD
+Grand Hyatt Paris,Paris,4,474,USD
+Holiday Inn Melbourne,Melbourne,5,486,USD
+Ritz-Carlton Toronto,Toronto,4,271,USD
+InterContinental Chicago,Chicago,3,673,USD
+InterContinental Frankfurt,Frankfurt,3,507,USD
+Grand Hyatt Chicago,Chicago,5,179,USD
+Ritz-Carlton Sydney,Sydney,5,597,USD
+Sheraton Tokyo,Tokyo,4,572,USD
+Shangri-La Paris,Paris,3,518,USD
+Holiday Inn Sydney,Sydney,5,490,USD
+Pullman Istanbul,Istanbul,5,680,USD
+Westin London,London,5,677,USD
+Holiday Inn London,London,5,238,USD
+Shangri-La Madrid,Madrid,3,421,USD
+Mandarin Oriental Bangkok,Bangkok,4,309,USD
+Radisson Blu Paris,Paris,4,559,USD
+Grand Hyatt Istanbul,Istanbul,4,465,USD
+Hilton Sydney,Sydney,3,612,USD
+Westin Toronto,Toronto,3,123,USD
+Pullman Moscow,Moscow,4,643,USD
+Holiday Inn Tokyo,Tokyo,5,552,USD
+Marriott Los Angeles,Los Angeles,3,417,USD
+Mandarin Oriental Melbourne,Melbourne,3,334,USD
+Mandarin Oriental Dubai,Dubai,5,258,USD
+Four Seasons London,London,4,420,USD
+Novotel Madrid,Madrid,5,372,USD
+Grand Hyatt Delhi,Delhi,5,245,USD
+Mandarin Oriental Paris,Paris,5,211,USD
+Mandarin Oriental Delhi,Delhi,3,656,USD
+Mandarin Oriental Delhi,Delhi,4,102,USD
+InterContinental Rome,Rome,5,371,USD
+Grand Hyatt Hong Kong,Hong Kong,3,499,USD
+Four Seasons London,London,5,347,USD
+Pullman Dubai,Dubai,5,164,USD
+Marriott Chicago,Chicago,3,150,USD
+Hilton Dubai,Dubai,5,355,USD
+Radisson Blu Bangkok,Bangkok,4,328,USD
+Radisson Blu Dubai,Dubai,4,416,USD
+Radisson Blu Melbourne,Melbourne,5,565,USD
+Sheraton New York,New York,3,427,USD
+Sheraton Rome,Rome,5,516,USD
+Ritz-Carlton Istanbul,Istanbul,3,588,USD
+Holiday Inn Melbourne,Melbourne,5,673,USD
+Four Seasons Bangkok,Bangkok,5,691,USD
+Holiday Inn Paris,Paris,3,495,USD
+The Plaza Rome,Rome,5,406,USD
+Radisson Blu Moscow,Moscow,5,641,USD
+Sheraton Delhi,Delhi,3,474,USD
+InterContinental Frankfurt,Frankfurt,5,267,USD
+Pullman Sydney,Sydney,4,250,USD
+Grand Hyatt Hong Kong,Hong Kong,4,516,USD
+Holiday Inn Beijing,Beijing,4,218,USD
+InterContinental Bangkok,Bangkok,4,270,USD
+Ritz-Carlton New York,New York,4,232,USD
+Radisson Blu Istanbul,Istanbul,4,670,USD
+Ritz-Carlton Dubai,Dubai,4,510,USD
+Mandarin Oriental Chicago,Chicago,4,607,USD
+Mandarin Oriental Bangkok,Bangkok,4,569,USD
+Marriott Delhi,Delhi,5,586,USD
+Marriott Dubai,Dubai,5,324,USD
+Pullman London,London,3,537,USD
+Sheraton Melbourne,Melbourne,5,313,USD
+Radisson Blu Madrid,Madrid,5,642,USD
+Shangri-La Paris,Paris,4,474,USD
+Shangri-La Bangkok,Bangkok,4,171,USD
+Westin Hong Kong,Hong Kong,5,116,USD
+The Plaza Los Angeles,Los Angeles,4,282,USD
+Marriott Delhi,Delhi,3,306,USD
+Radisson Blu Dubai,Dubai,5,686,USD
+Marriott London,London,4,433,USD
+Pullman Istanbul,Istanbul,5,360,USD
+InterContinental Paris,Paris,3,160,USD
+Westin Melbourne,Melbourne,3,275,USD
+Four Seasons Paris,Paris,4,356,USD
+Four Seasons Paris,Paris,5,505,USD
+Radisson Blu Melbourne,Melbourne,3,506,USD
+Marriott Sydney,Sydney,5,221,USD
+Ritz-Carlton Hong Kong,Hong Kong,4,93,USD
+InterContinental London,London,3,592,USD
+The Plaza Beijing,Beijing,3,191,USD
+Radisson Blu Moscow,Moscow,5,85,USD
+Pullman Paris,Paris,3,80,USD
+The Plaza Rome,Rome,4,492,USD
+The Plaza Moscow,Moscow,4,258,USD
+Grand Hyatt Dubai,Dubai,3,646,USD
+The Plaza Sydney,Sydney,3,512,USD
+Ritz-Carlton Istanbul,Istanbul,5,166,USD
+Pullman Los Angeles,Los Angeles,3,139,USD
+Four Seasons Paris,Paris,3,452,USD
+Hilton Beijing,Beijing,4,244,USD
+Radisson Blu Toronto,Toronto,5,425,USD
+Pullman Istanbul,Istanbul,3,184,USD
+Holiday Inn London,London,4,572,USD
+Pullman Sydney,Sydney,5,651,USD
+Grand Hyatt Moscow,Moscow,4,552,USD
+Pullman Madrid,Madrid,3,122,USD
+Mandarin Oriental Chicago,Chicago,4,112,USD
+Grand Hyatt Istanbul,Istanbul,5,230,USD
+The Plaza Toronto,Toronto,5,583,USD
+The Plaza Moscow,Moscow,5,552,USD
+Grand Hyatt Singapore,Singapore,4,504,USD
+Ritz-Carlton Toronto,Toronto,4,677,USD
+Shangri-La Rome,Rome,4,593,USD
+Mandarin Oriental Chicago,Chicago,4,536,USD
+Grand Hyatt Delhi,Delhi,3,327,USD
+Radisson Blu Singapore,Singapore,4,277,USD
+Ritz-Carlton Bangkok,Bangkok,5,493,USD
+Novotel Beijing,Beijing,3,262,USD
+Radisson Blu Moscow,Moscow,3,72,USD
+Shangri-La Rome,Rome,5,436,USD
+Four Seasons Los Angeles,Los Angeles,5,99,USD
+InterContinental Frankfurt,Frankfurt,4,655,USD
+The Plaza Madrid,Madrid,4,129,USD
+Four Seasons Madrid,Madrid,4,639,USD
+Radisson Blu Tokyo,Tokyo,3,148,USD
+Novotel Hong Kong,Hong Kong,3,628,USD
+Sheraton Chicago,Chicago,3,596,USD
+Novotel Hong Kong,Hong Kong,5,322,USD
+Novotel Frankfurt,Frankfurt,5,206,USD
+Ritz-Carlton New York,New York,3,578,USD
+Four Seasons Bangkok,Bangkok,5,251,USD
+Grand Hyatt Chicago,Chicago,4,436,USD
+Sheraton Dubai,Dubai,3,479,USD
+Novotel Frankfurt,Frankfurt,5,384,USD
+Four Seasons Singapore,Singapore,3,461,USD
+InterContinental Hong Kong,Hong Kong,3,251,USD
+Shangri-La Dubai,Dubai,3,563,USD
+Mandarin Oriental Chicago,Chicago,3,112,USD
+Holiday Inn Istanbul,Istanbul,4,560,USD
+Marriott Hong Kong,Hong Kong,3,655,USD
+Westin Bangkok,Bangkok,4,354,USD
+Novotel Los Angeles,Los Angeles,3,687,USD
+Hilton Tokyo,Tokyo,3,420,USD
+Four Seasons Paris,Paris,5,94,USD
+Marriott Toronto,Toronto,5,294,USD
+Marriott Delhi,Delhi,5,504,USD
+Ritz-Carlton Istanbul,Istanbul,5,590,USD
+Pullman Los Angeles,Los Angeles,5,436,USD
+Westin Madrid,Madrid,5,316,USD
+Grand Hyatt Delhi,Delhi,5,417,USD
+Four Seasons Singapore,Singapore,4,422,USD
+Marriott Beijing,Beijing,4,478,USD
+Marriott Melbourne,Melbourne,3,448,USD
+Shangri-La Hong Kong,Hong Kong,3,79,USD
+Ritz-Carlton Rome,Rome,4,477,USD
+Holiday Inn Istanbul,Istanbul,3,600,USD
+InterContinental Beijing,Beijing,4,217,USD
+Ritz-Carlton Delhi,Delhi,4,211,USD
+Shangri-La Bangkok,Bangkok,4,464,USD
+Pullman Moscow,Moscow,3,237,USD
+InterContinental Madrid,Madrid,4,661,USD
+Novotel Paris,Paris,5,101,USD
+The Plaza Rome,Rome,4,243,USD
+Novotel Madrid,Madrid,3,416,USD
+Grand Hyatt Bangkok,Bangkok,3,673,USD
+Shangri-La Moscow,Moscow,4,508,USD
+Holiday Inn Sydney,Sydney,3,611,USD
+Four Seasons London,London,5,175,USD
+Mandarin Oriental Moscow,Moscow,5,688,USD
+Marriott Rome,Rome,5,636,USD
+InterContinental Moscow,Moscow,5,103,USD
+Holiday Inn London,London,5,585,USD
+Grand Hyatt Chicago,Chicago,5,583,USD
+Novotel Frankfurt,Frankfurt,5,200,USD
+Westin London,London,5,336,USD
+Pullman Rome,Rome,3,175,USD
+Westin New York,New York,3,64,USD
+Radisson Blu Dubai,Dubai,3,223,USD
+Ritz-Carlton Istanbul,Istanbul,4,159,USD
+Four Seasons Dubai,Dubai,5,163,USD
+InterContinental Delhi,Delhi,5,251,USD
+Hilton Hong Kong,Hong Kong,5,201,USD
+Grand Hyatt Tokyo,Tokyo,4,287,USD
+Radisson Blu Los Angeles,Los Angeles,3,189,USD
+Radisson Blu New York,New York,4,181,USD
+Holiday Inn Toronto,Toronto,4,219,USD
+Hilton Dubai,Dubai,3,451,USD
+Westin New York,New York,4,443,USD
+Novotel London,London,3,608,USD
+Mandarin Oriental Bangkok,Bangkok,3,144,USD
+Radisson Blu Dubai,Dubai,5,80,USD
+The Plaza Los Angeles,Los Angeles,3,432,USD
+Holiday Inn Bangkok,Bangkok,5,682,USD
+Holiday Inn Istanbul,Istanbul,5,392,USD
+The Plaza Istanbul,Istanbul,5,148,USD
+Marriott Paris,Paris,3,246,USD
+Ritz-Carlton Hong Kong,Hong Kong,3,85,USD
+Westin Melbourne,Melbourne,4,592,USD
+Holiday Inn Toronto,Toronto,4,351,USD
+Four Seasons New York,New York,5,576,USD
+Pullman Delhi,Delhi,4,480,USD
+Marriott Dubai,Dubai,4,524,USD
+The Plaza Rome,Rome,3,298,USD
+Radisson Blu London,London,4,577,USD
+Four Seasons Sydney,Sydney,5,469,USD
+Pullman Singapore,Singapore,3,637,USD
+Ritz-Carlton Toronto,Toronto,3,363,USD
+Shangri-La Frankfurt,Frankfurt,3,448,USD
+InterContinental Bangkok,Bangkok,4,296,USD
+Marriott Paris,Paris,3,484,USD
+Grand Hyatt Toronto,Toronto,5,216,USD
+Shangri-La Frankfurt,Frankfurt,3,188,USD
+InterContinental Singapore,Singapore,4,160,USD
+Four Seasons Istanbul,Istanbul,5,120,USD
+Holiday Inn Melbourne,Melbourne,4,372,USD
+Westin Moscow,Moscow,4,648,USD
+The Plaza Paris,Paris,5,459,USD
+Sheraton Singapore,Singapore,3,522,USD
+InterContinental Dubai,Dubai,5,621,USD
+Grand Hyatt London,London,3,574,USD
+Westin Los Angeles,Los Angeles,4,567,USD
+Mandarin Oriental Delhi,Delhi,3,293,USD
+Marriott Singapore,Singapore,4,269,USD
+Shangri-La Singapore,Singapore,4,95,USD
+Novotel Bangkok,Bangkok,3,63,USD
+Grand Hyatt Rome,Rome,3,407,USD
+Radisson Blu Dubai,Dubai,3,680,USD
+InterContinental Frankfurt,Frankfurt,4,443,USD
+Shangri-La Istanbul,Istanbul,5,235,USD
+Westin Dubai,Dubai,5,316,USD
+Radisson Blu Rome,Rome,4,384,USD
+Grand Hyatt Chicago,Chicago,3,116,USD
+Holiday Inn Madrid,Madrid,5,590,USD
+Westin Melbourne,Melbourne,4,128,USD
+Pullman Dubai,Dubai,4,521,USD
+Ritz-Carlton London,London,4,491,USD
+Radisson Blu Los Angeles,Los Angeles,4,312,USD
+Radisson Blu Frankfurt,Frankfurt,3,655,USD
+The Plaza Toronto,Toronto,4,436,USD
+Holiday Inn Beijing,Beijing,3,229,USD
+Hilton Tokyo,Tokyo,4,109,USD
+Grand Hyatt Moscow,Moscow,3,143,USD
+Hilton Tokyo,Tokyo,3,453,USD
+Mandarin Oriental Tokyo,Tokyo,3,631,USD
+Hilton New York,New York,5,584,USD
+Marriott Hong Kong,Hong Kong,3,461,USD
+Four Seasons Delhi,Delhi,4,185,USD
+The Plaza Los Angeles,Los Angeles,4,75,USD
+Marriott Dubai,Dubai,5,578,USD
+Pullman Sydney,Sydney,5,580,USD
+InterContinental Melbourne,Melbourne,4,445,USD
+Hilton Frankfurt,Frankfurt,4,132,USD
+Four Seasons London,London,5,277,USD
+Novotel Istanbul,Istanbul,3,147,USD
+Shangri-La Los Angeles,Los Angeles,3,487,USD
+The Plaza Singapore,Singapore,3,533,USD
+Shangri-La Istanbul,Istanbul,5,482,USD
+InterContinental London,London,5,325,USD
+Radisson Blu New York,New York,5,114,USD
+Novotel Moscow,Moscow,3,689,USD
+Grand Hyatt Paris,Paris,4,395,USD
+Grand Hyatt Tokyo,Tokyo,5,688,USD
+Shangri-La Los Angeles,Los Angeles,5,173,USD
+The Plaza Istanbul,Istanbul,4,698,USD
+The Plaza Istanbul,Istanbul,5,368,USD
+The Plaza Los Angeles,Los Angeles,3,533,USD
+Pullman Frankfurt,Frankfurt,4,153,USD
+Radisson Blu Singapore,Singapore,4,444,USD
+Novotel London,London,3,550,USD
+Holiday Inn Singapore,Singapore,4,650,USD
+Mandarin Oriental Los Angeles,Los Angeles,3,627,USD
+The Plaza Chicago,Chicago,4,348,USD
+Shangri-La Melbourne,Melbourne,3,383,USD
+Radisson Blu Rome,Rome,3,169,USD
+Grand Hyatt Istanbul,Istanbul,3,697,USD
+InterContinental Melbourne,Melbourne,5,288,USD
+Marriott Moscow,Moscow,5,600,USD
+Four Seasons Toronto,Toronto,3,362,USD
+Pullman Singapore,Singapore,5,109,USD
+Ritz-Carlton Moscow,Moscow,4,564,USD
+Four Seasons Beijing,Beijing,5,443,USD
+Westin Bangkok,Bangkok,5,459,USD
+Four Seasons Delhi,Delhi,5,347,USD
+Hilton Tokyo,Tokyo,3,304,USD
+The Plaza Singapore,Singapore,4,420,USD
+Shangri-La New York,New York,3,209,USD
+Radisson Blu Toronto,Toronto,5,195,USD
+Radisson Blu Melbourne,Melbourne,5,680,USD
+Grand Hyatt Delhi,Delhi,5,514,USD
+Sheraton Los Angeles,Los Angeles,5,160,USD
+InterContinental Moscow,Moscow,4,351,USD
