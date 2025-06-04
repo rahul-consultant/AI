@@ -1,0 +1,8 @@
+Gradio==3.0.0
+openai==0.27.0
+pydub==0.25.1
+opencv-python==4.5.3.20210927
+fpdf==1.7.2
+python-dotenv==0.19.2
+speechrecognition==3.8.1
+numpy==1.21.2
