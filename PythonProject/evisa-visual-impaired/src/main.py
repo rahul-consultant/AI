@@ -2,10 +2,10 @@
 
 import os
 import gradio as gr
-from utils.audio import talker
+from utils.audio import text_to_speech, play_audio
 from utils.pdf import create_visa_application_pdf
 from utils.photo import auto_capture_photo
-from utils.openai_api import chat_with_openai
+from utils.openai_api import send_chat_message,generate_audio_response
 from dotenv import load_dotenv
 
 load_dotenv()
