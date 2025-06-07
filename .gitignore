@@ -1,2 +1,14 @@
 .env
 BasicLLM/.DS_Store
+PythonProject/evisa-visual-impaired/.env.example
+BasicLLM/.gradio/certificate.pem
+BasicLLM/.ipynb_checkpoints
+BasicLLM/visa_photo-checkpoint.jpg
+BasicLLM/visa_application.pdf
+BasicLLM/debug.log
+BasicLLM/HuggingFaceTB
+BasicLLM/.virtual_documents
+BasicLLM/gemma-3-1b-mythology-pretrained
+BasicLLM/.gradio
+
+

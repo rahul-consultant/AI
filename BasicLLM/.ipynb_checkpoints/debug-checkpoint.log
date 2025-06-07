@@ -1,0 +1,289 @@
+2025-06-04 19:39:03,469 DEBUG:load_ssl_context verify=True cert=None trust_env=True http2=False
+2025-06-04 19:39:03,470 DEBUG:load_verify_locations cafile='/opt/anaconda3/lib/python3.12/site-packages/certifi/cacert.pem'
+2025-06-04 19:39:03,489 INFO:Initialization successful.
+2025-06-04 19:39:03,495 DEBUG:load_ssl_context verify=True cert=None trust_env=True http2=False
+2025-06-04 19:39:03,500 DEBUG:Starting new HTTPS connection (1): huggingface.co:443
+2025-06-04 19:39:03,507 DEBUG:load_verify_locations cafile='/opt/anaconda3/lib/python3.12/site-packages/certifi/cacert.pem'
+2025-06-04 19:39:03,536 DEBUG:connect_tcp.started host='api.gradio.app' port=443 local_address=None timeout=3 socket_options=None
+2025-06-04 19:39:03,604 DEBUG:Using selector: KqueueSelector
+2025-06-04 19:39:03,631 DEBUG:load_ssl_context verify=True cert=None trust_env=True http2=False
+2025-06-04 19:39:03,632 DEBUG:load_verify_locations cafile='/opt/anaconda3/lib/python3.12/site-packages/certifi/cacert.pem'
+2025-06-04 19:39:03,649 DEBUG:connect_tcp.started host='127.0.0.1' port=7870 local_address=None timeout=None socket_options=None
+2025-06-04 19:39:03,649 DEBUG:connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x17d24d7f0>
+2025-06-04 19:39:03,649 DEBUG:send_request_headers.started request=<Request [b'GET']>
+2025-06-04 19:39:03,649 DEBUG:send_request_headers.complete
+2025-06-04 19:39:03,649 DEBUG:send_request_body.started request=<Request [b'GET']>
+2025-06-04 19:39:03,649 DEBUG:send_request_body.complete
+2025-06-04 19:39:03,650 DEBUG:receive_response_headers.started request=<Request [b'GET']>
+2025-06-04 19:39:03,651 DEBUG:receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'date', b'Wed, 04 Jun 2025 17:39:03 GMT'), (b'server', b'uvicorn'), (b'content-length', b'4'), (b'content-type', b'application/json')])
+2025-06-04 19:39:03,651 INFO:HTTP Request: GET http://127.0.0.1:7870/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-06-04 19:39:03,651 DEBUG:receive_response_body.started request=<Request [b'GET']>
+2025-06-04 19:39:03,651 DEBUG:receive_response_body.complete
+2025-06-04 19:39:03,651 DEBUG:response_closed.started
+2025-06-04 19:39:03,651 DEBUG:response_closed.complete
+2025-06-04 19:39:03,651 DEBUG:close.started
+2025-06-04 19:39:03,651 DEBUG:close.complete
+2025-06-04 19:39:03,652 DEBUG:load_ssl_context verify=False cert=None trust_env=True http2=False
+2025-06-04 19:39:03,653 DEBUG:connect_tcp.started host='127.0.0.1' port=7870 local_address=None timeout=3 socket_options=None
+2025-06-04 19:39:03,653 DEBUG:connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x17d24ca70>
+2025-06-04 19:39:03,653 DEBUG:send_request_headers.started request=<Request [b'HEAD']>
+2025-06-04 19:39:03,653 DEBUG:send_request_headers.complete
+2025-06-04 19:39:03,653 DEBUG:send_request_body.started request=<Request [b'HEAD']>
+2025-06-04 19:39:03,653 DEBUG:send_request_body.complete
+2025-06-04 19:39:03,653 DEBUG:receive_response_headers.started request=<Request [b'HEAD']>
+2025-06-04 19:39:03,655 DEBUG:receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'date', b'Wed, 04 Jun 2025 17:39:03 GMT'), (b'server', b'uvicorn'), (b'content-length', b'22050'), (b'content-type', b'text/html; charset=utf-8')])
+2025-06-04 19:39:03,656 INFO:HTTP Request: HEAD http://127.0.0.1:7870/ "HTTP/1.1 200 OK"
+2025-06-04 19:39:03,656 DEBUG:receive_response_body.started request=<Request [b'HEAD']>
+2025-06-04 19:39:03,656 DEBUG:receive_response_body.complete
+2025-06-04 19:39:03,656 DEBUG:response_closed.started
+2025-06-04 19:39:03,656 DEBUG:response_closed.complete
+2025-06-04 19:39:03,656 DEBUG:close.started
+2025-06-04 19:39:03,656 DEBUG:close.complete
+2025-06-04 19:39:03,660 DEBUG:Starting new HTTPS connection (1): huggingface.co:443
+2025-06-04 19:39:03,669 DEBUG:https://huggingface.co:443 "HEAD /api/telemetry/gradio/initiated HTTP/11" 200 0
+2025-06-04 19:39:03,729 DEBUG:connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x176f70530>
+2025-06-04 19:39:03,730 DEBUG:start_tls.started ssl_context=<ssl.SSLContext object at 0x176e42d50> server_hostname='api.gradio.app' timeout=3
+2025-06-04 19:39:03,785 DEBUG:https://huggingface.co:443 "HEAD /api/telemetry/gradio/launched HTTP/11" 200 0
+2025-06-04 19:39:04,072 DEBUG:start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x17700ce00>
+2025-06-04 19:39:04,072 DEBUG:send_request_headers.started request=<Request [b'GET']>
+2025-06-04 19:39:04,072 DEBUG:send_request_headers.complete
+2025-06-04 19:39:04,072 DEBUG:send_request_body.started request=<Request [b'GET']>
+2025-06-04 19:39:04,072 DEBUG:send_request_body.complete
+2025-06-04 19:39:04,072 DEBUG:receive_response_headers.started request=<Request [b'GET']>
+2025-06-04 19:39:04,252 DEBUG:receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Wed, 04 Jun 2025 17:39:04 GMT'), (b'Content-Type', b'application/json'), (b'Content-Length', b'21'), (b'Connection', b'keep-alive'), (b'Server', b'nginx/1.18.0'), (b'Access-Control-Allow-Origin', b'*')])
+2025-06-04 19:39:04,253 INFO:HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-06-04 19:39:04,253 DEBUG:receive_response_body.started request=<Request [b'GET']>
+2025-06-04 19:39:04,253 DEBUG:receive_response_body.complete
+2025-06-04 19:39:04,253 DEBUG:response_closed.started
+2025-06-04 19:39:04,253 DEBUG:response_closed.complete
+2025-06-04 19:39:04,253 DEBUG:close.started
+2025-06-04 19:39:04,253 DEBUG:close.complete
+2025-06-04 19:39:13,311 DEBUG:Request options: {'method': 'post', 'url': '/audio/speech', 'headers': {'Accept': 'application/octet-stream'}, 'files': None, 'idempotency_key': 'stainless-python-retry-716e0e38-23a2-4d4f-8539-f9b91e63cb58', 'json_data': {'input': 'Welcome to Eazee! I will help you fill out your visa application. What is your first name?', 'model': 'tts-1', 'voice': 'onyx'}}
+2025-06-04 19:39:13,312 DEBUG:Sending HTTP Request: POST https://api.openai.com/v1/audio/speech
+2025-06-04 19:39:13,312 DEBUG:connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=5.0 socket_options=None
+2025-06-04 19:39:13,351 DEBUG:connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x17d24fb60>
+2025-06-04 19:39:13,351 DEBUG:start_tls.started ssl_context=<ssl.SSLContext object at 0x30c6e2150> server_hostname='api.openai.com' timeout=5.0
+2025-06-04 19:39:13,369 DEBUG:start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x176e3c800>
+2025-06-04 19:39:13,369 DEBUG:send_request_headers.started request=<Request [b'POST']>
+2025-06-04 19:39:13,369 DEBUG:send_request_headers.complete
+2025-06-04 19:39:13,370 DEBUG:send_request_body.started request=<Request [b'POST']>
+2025-06-04 19:39:13,370 DEBUG:send_request_body.complete
+2025-06-04 19:39:13,370 DEBUG:receive_response_headers.started request=<Request [b'POST']>
+2025-06-04 19:39:14,299 DEBUG:receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Wed, 04 Jun 2025 17:39:14 GMT'), (b'Content-Type', b'audio/mpeg'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'personal-izxyty'), (b'openai-processing-ms', b'694'), (b'openai-version', b'2020-10-01'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'via', b'envoy-router-5cfcf8fdc-gpzl5'), (b'x-envoy-upstream-service-time', b'696'), (b'x-ratelimit-limit-requests', b'500'), (b'x-ratelimit-remaining-requests', b'499'), (b'x-ratelimit-reset-requests', b'120ms'), (b'x-request-id', b'req_26c376eeb820dd2ea8f1fb44bebdb87c'), (b'cf-cache-status', b'DYNAMIC'), (b'Set-Cookie', b'__cf_bm=fnIRw19dg2JK0Sp2j1rsDJLZhHLvdyzpHTZiuLiQkEk-1749058754-1.0.1.1-yAmurANNkpDEkoK2Gf3yvC5f_t9fP1rm7e0zjqsk7uNbyQKhpU8p4dv4EtwD.JwjvKfluxMk.RtmmSP3HtbAOoRbF2WDvHeoNi3xNuCgiVo; path=/; expires=Wed, 04-Jun-25 18:09:14 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'X-Content-Type-Options', b'nosniff'), (b'Set-Cookie', b'_cfuvid=I_zSqZEvhAK1pK5j31KBAJ.Zo_teDc1SNULW5H22mm4-1749058754217-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Server', b'cloudflare'), (b'CF-RAY', b'94a93558cf360a65-AMS'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-06-04 19:39:14,300 INFO:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-06-04 19:39:14,301 DEBUG:receive_response_body.started request=<Request [b'POST']>
+2025-06-04 19:39:15,118 DEBUG:receive_response_body.complete
+2025-06-04 19:39:15,118 DEBUG:response_closed.started
+2025-06-04 19:39:15,118 DEBUG:response_closed.complete
+2025-06-04 19:39:15,119 DEBUG:HTTP Response: POST https://api.openai.com/v1/audio/speech "200 OK" Headers([('date', 'Wed, 04 Jun 2025 17:39:14 GMT'), ('content-type', 'audio/mpeg'), ('transfer-encoding', 'chunked'), ('connection', 'keep-alive'), ('access-control-expose-headers', 'X-Request-ID'), ('openai-organization', 'personal-izxyty'), ('openai-processing-ms', '694'), ('openai-version', '2020-10-01'), ('strict-transport-security', 'max-age=31536000; includeSubDomains; preload'), ('via', 'envoy-router-5cfcf8fdc-gpzl5'), ('x-envoy-upstream-service-time', '696'), ('x-ratelimit-limit-requests', '500'), ('x-ratelimit-remaining-requests', '499'), ('x-ratelimit-reset-requests', '120ms'), ('x-request-id', 'req_26c376eeb820dd2ea8f1fb44bebdb87c'), ('cf-cache-status', 'DYNAMIC'), ('set-cookie', '__cf_bm=fnIRw19dg2JK0Sp2j1rsDJLZhHLvdyzpHTZiuLiQkEk-1749058754-1.0.1.1-yAmurANNkpDEkoK2Gf3yvC5f_t9fP1rm7e0zjqsk7uNbyQKhpU8p4dv4EtwD.JwjvKfluxMk.RtmmSP3HtbAOoRbF2WDvHeoNi3xNuCgiVo; path=/; expires=Wed, 04-Jun-25 18:09:14 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('x-content-type-options', 'nosniff'), ('set-cookie', '_cfuvid=I_zSqZEvhAK1pK5j31KBAJ.Zo_teDc1SNULW5H22mm4-1749058754217-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('server', 'cloudflare'), ('cf-ray', '94a93558cf360a65-AMS'), ('alt-svc', 'h3=":443"; ma=86400')])
+2025-06-04 19:39:15,119 DEBUG:request_id: req_26c376eeb820dd2ea8f1fb44bebdb87c
+2025-06-04 19:39:15,315 DEBUG:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-read_ahead_limit', '-1', '-i', 'cache:pipe:0', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2025-06-04 19:39:21,288 INFO:Spoke message successfully.
+2025-06-04 19:39:21,289 INFO:Started new conversation.
+2025-06-04 19:39:26,345 DEBUG:Request options: {'method': 'post', 'url': '/chat/completions', 'files': None, 'idempotency_key': 'stainless-python-retry-0414a359-dcb0-4f45-88e9-65989c9ff98e', 'json_data': {'messages': [{'role': 'system', 'content': 'You are a helpful assistant for E-Visa applications. Collect only first name, last name, address, and gender. Do not ask for or mention photo. Ask for only one missing field at a time.'}, {'role': 'user', 'content': ' '}, {'role': 'assistant', 'content': 'Welcome to Eazee! I will help you fill out your visa application. What is your first name?'}, {'role': 'user', 'content': ' '}], 'model': 'gpt-4o-mini'}}
+2025-06-04 19:39:26,347 DEBUG:Sending HTTP Request: POST https://api.openai.com/v1/chat/completions
+2025-06-04 19:39:26,348 DEBUG:close.started
+2025-06-04 19:39:26,349 DEBUG:close.complete
+2025-06-04 19:39:26,349 DEBUG:connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=5.0 socket_options=None
+2025-06-04 19:39:26,387 DEBUG:connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x176e3dbb0>
+2025-06-04 19:39:26,388 DEBUG:start_tls.started ssl_context=<ssl.SSLContext object at 0x30c6e2150> server_hostname='api.openai.com' timeout=5.0
+2025-06-04 19:39:26,404 DEBUG:start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x176e3faa0>
+2025-06-04 19:39:26,404 DEBUG:send_request_headers.started request=<Request [b'POST']>
+2025-06-04 19:39:26,404 DEBUG:send_request_headers.complete
+2025-06-04 19:39:26,404 DEBUG:send_request_body.started request=<Request [b'POST']>
+2025-06-04 19:39:26,404 DEBUG:send_request_body.complete
+2025-06-04 19:39:26,404 DEBUG:receive_response_headers.started request=<Request [b'POST']>
+2025-06-04 19:39:26,999 DEBUG:receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Wed, 04 Jun 2025 17:39:26 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'personal-izxyty'), (b'openai-processing-ms', b'304'), (b'openai-version', b'2020-10-01'), (b'x-envoy-upstream-service-time', b'342'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9999'), (b'x-ratelimit-remaining-tokens', b'199926'), (b'x-ratelimit-reset-requests', b'8.64s'), (b'x-ratelimit-reset-tokens', b'22ms'), (b'x-request-id', b'req_832537d43ae2087998a30f7ead5d1804'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'94a935aa3c2afea6-AMS'), (b'Content-Encoding', b'br'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-06-04 19:39:26,999 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-04 19:39:27,000 DEBUG:receive_response_body.started request=<Request [b'POST']>
+2025-06-04 19:39:27,000 DEBUG:receive_response_body.complete
+2025-06-04 19:39:27,000 DEBUG:response_closed.started
+2025-06-04 19:39:27,000 DEBUG:response_closed.complete
+2025-06-04 19:39:27,000 DEBUG:HTTP Response: POST https://api.openai.com/v1/chat/completions "200 OK" Headers({'date': 'Wed, 04 Jun 2025 17:39:26 GMT', 'content-type': 'application/json', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'access-control-expose-headers': 'X-Request-ID', 'openai-organization': 'personal-izxyty', 'openai-processing-ms': '304', 'openai-version': '2020-10-01', 'x-envoy-upstream-service-time': '342', 'x-ratelimit-limit-requests': '10000', 'x-ratelimit-limit-tokens': '200000', 'x-ratelimit-remaining-requests': '9999', 'x-ratelimit-remaining-tokens': '199926', 'x-ratelimit-reset-requests': '8.64s', 'x-ratelimit-reset-tokens': '22ms', 'x-request-id': 'req_832537d43ae2087998a30f7ead5d1804', 'strict-transport-security': 'max-age=31536000; includeSubDomains; preload', 'cf-cache-status': 'DYNAMIC', 'x-content-type-options': 'nosniff', 'server': 'cloudflare', 'cf-ray': '94a935aa3c2afea6-AMS', 'content-encoding': 'br', 'alt-svc': 'h3=":443"; ma=86400'})
+2025-06-04 19:39:27,001 DEBUG:request_id: req_832537d43ae2087998a30f7ead5d1804
+2025-06-04 19:39:27,002 DEBUG:Request options: {'method': 'post', 'url': '/audio/speech', 'headers': {'Accept': 'application/octet-stream'}, 'files': None, 'idempotency_key': 'stainless-python-retry-e605f4c8-81ee-453a-8344-a5d4ce0870af', 'json_data': {'input': 'Please provide your last name.', 'model': 'tts-1', 'voice': 'onyx'}}
+2025-06-04 19:39:27,004 DEBUG:Sending HTTP Request: POST https://api.openai.com/v1/audio/speech
+2025-06-04 19:39:27,006 DEBUG:send_request_headers.started request=<Request [b'POST']>
+2025-06-04 19:39:27,008 DEBUG:send_request_headers.complete
+2025-06-04 19:39:27,008 DEBUG:send_request_body.started request=<Request [b'POST']>
+2025-06-04 19:39:27,009 DEBUG:send_request_body.complete
+2025-06-04 19:39:27,009 DEBUG:receive_response_headers.started request=<Request [b'POST']>
+2025-06-04 19:39:28,146 DEBUG:receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Wed, 04 Jun 2025 17:39:28 GMT'), (b'Content-Type', b'audio/mpeg'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'personal-izxyty'), (b'openai-processing-ms', b'972'), (b'openai-version', b'2020-10-01'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'via', b'envoy-router-79fb64d7c-x94hs'), (b'x-envoy-upstream-service-time', b'1007'), (b'x-ratelimit-limit-requests', b'500'), (b'x-ratelimit-remaining-requests', b'499'), (b'x-ratelimit-reset-requests', b'120ms'), (b'x-request-id', b'req_abc69820175e68bab4029ba853e5409a'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'94a935ae09bdfea6-AMS'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-06-04 19:39:28,148 INFO:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-06-04 19:39:28,149 DEBUG:receive_response_body.started request=<Request [b'POST']>
+2025-06-04 19:39:28,534 DEBUG:receive_response_body.complete
+2025-06-04 19:39:28,534 DEBUG:response_closed.started
+2025-06-04 19:39:28,535 DEBUG:response_closed.complete
+2025-06-04 19:39:28,535 DEBUG:HTTP Response: POST https://api.openai.com/v1/audio/speech "200 OK" Headers({'date': 'Wed, 04 Jun 2025 17:39:28 GMT', 'content-type': 'audio/mpeg', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'access-control-expose-headers': 'X-Request-ID', 'openai-organization': 'personal-izxyty', 'openai-processing-ms': '972', 'openai-version': '2020-10-01', 'strict-transport-security': 'max-age=31536000; includeSubDomains; preload', 'via': 'envoy-router-79fb64d7c-x94hs', 'x-envoy-upstream-service-time': '1007', 'x-ratelimit-limit-requests': '500', 'x-ratelimit-remaining-requests': '499', 'x-ratelimit-reset-requests': '120ms', 'x-request-id': 'req_abc69820175e68bab4029ba853e5409a', 'cf-cache-status': 'DYNAMIC', 'x-content-type-options': 'nosniff', 'server': 'cloudflare', 'cf-ray': '94a935ae09bdfea6-AMS', 'alt-svc': 'h3=":443"; ma=86400'})
+2025-06-04 19:39:28,535 DEBUG:request_id: req_abc69820175e68bab4029ba853e5409a
+2025-06-04 19:39:28,629 DEBUG:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-read_ahead_limit', '-1', '-i', 'cache:pipe:0', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2025-06-04 19:39:30,750 INFO:Spoke message successfully.
+2025-06-04 19:39:30,751 INFO:Assistant replied.
+2025-06-04 19:39:33,678 DEBUG:Request options: {'method': 'post', 'url': '/chat/completions', 'files': None, 'idempotency_key': 'stainless-python-retry-bf05be04-552e-4822-ae72-54c5834b7b1e', 'json_data': {'messages': [{'role': 'system', 'content': 'You are a helpful assistant for E-Visa applications. Collect only first name, last name, address, and gender. Do not ask for or mention photo. Ask for only one missing field at a time.'}, {'role': 'user', 'content': ' '}, {'role': 'assistant', 'content': 'Welcome to Eazee! I will help you fill out your visa application. What is your first name?'}, {'role': 'user', 'content': ' '}, {'role': 'assistant', 'content': 'Please provide your last name.'}, {'role': 'user', 'content': ' '}], 'model': 'gpt-4o-mini'}}
+2025-06-04 19:39:33,680 DEBUG:Sending HTTP Request: POST https://api.openai.com/v1/chat/completions
+2025-06-04 19:39:33,680 DEBUG:close.started
+2025-06-04 19:39:33,681 DEBUG:close.complete
+2025-06-04 19:39:33,681 DEBUG:connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=5.0 socket_options=None
+2025-06-04 19:39:33,694 DEBUG:connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x176f96ba0>
+2025-06-04 19:39:33,694 DEBUG:start_tls.started ssl_context=<ssl.SSLContext object at 0x30c6e2150> server_hostname='api.openai.com' timeout=5.0
+2025-06-04 19:39:33,719 DEBUG:start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x176e7a120>
+2025-06-04 19:39:33,719 DEBUG:send_request_headers.started request=<Request [b'POST']>
+2025-06-04 19:39:33,719 DEBUG:send_request_headers.complete
+2025-06-04 19:39:33,719 DEBUG:send_request_body.started request=<Request [b'POST']>
+2025-06-04 19:39:33,719 DEBUG:send_request_body.complete
+2025-06-04 19:39:33,719 DEBUG:receive_response_headers.started request=<Request [b'POST']>
+2025-06-04 19:39:34,777 DEBUG:receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Wed, 04 Jun 2025 17:39:34 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'personal-izxyty'), (b'openai-processing-ms', b'608'), (b'openai-version', b'2020-10-01'), (b'x-envoy-upstream-service-time', b'621'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9998'), (b'x-ratelimit-remaining-tokens', b'199916'), (b'x-ratelimit-reset-requests', b'9.973s'), (b'x-ratelimit-reset-tokens', b'25ms'), (b'x-request-id', b'req_ecd266d2ca616a7421cbf4ed4b66cc94'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'94a935d7fa8e9f82-AMS'), (b'Content-Encoding', b'br'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-06-04 19:39:34,778 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-04 19:39:34,778 DEBUG:receive_response_body.started request=<Request [b'POST']>
+2025-06-04 19:39:34,779 DEBUG:receive_response_body.complete
+2025-06-04 19:39:34,779 DEBUG:response_closed.started
+2025-06-04 19:39:34,779 DEBUG:response_closed.complete
+2025-06-04 19:39:34,780 DEBUG:HTTP Response: POST https://api.openai.com/v1/chat/completions "200 OK" Headers({'date': 'Wed, 04 Jun 2025 17:39:34 GMT', 'content-type': 'application/json', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'access-control-expose-headers': 'X-Request-ID', 'openai-organization': 'personal-izxyty', 'openai-processing-ms': '608', 'openai-version': '2020-10-01', 'x-envoy-upstream-service-time': '621', 'x-ratelimit-limit-requests': '10000', 'x-ratelimit-limit-tokens': '200000', 'x-ratelimit-remaining-requests': '9998', 'x-ratelimit-remaining-tokens': '199916', 'x-ratelimit-reset-requests': '9.973s', 'x-ratelimit-reset-tokens': '25ms', 'x-request-id': 'req_ecd266d2ca616a7421cbf4ed4b66cc94', 'strict-transport-security': 'max-age=31536000; includeSubDomains; preload', 'cf-cache-status': 'DYNAMIC', 'x-content-type-options': 'nosniff', 'server': 'cloudflare', 'cf-ray': '94a935d7fa8e9f82-AMS', 'content-encoding': 'br', 'alt-svc': 'h3=":443"; ma=86400'})
+2025-06-04 19:39:34,780 DEBUG:request_id: req_ecd266d2ca616a7421cbf4ed4b66cc94
+2025-06-04 19:39:34,782 DEBUG:Request options: {'method': 'post', 'url': '/audio/speech', 'headers': {'Accept': 'application/octet-stream'}, 'files': None, 'idempotency_key': 'stainless-python-retry-4853ae92-7e0c-4b85-8401-0777de48f212', 'json_data': {'input': 'Could you please tell me your address?', 'model': 'tts-1', 'voice': 'onyx'}}
+2025-06-04 19:39:34,783 DEBUG:Sending HTTP Request: POST https://api.openai.com/v1/audio/speech
+2025-06-04 19:39:34,783 DEBUG:send_request_headers.started request=<Request [b'POST']>
+2025-06-04 19:39:34,784 DEBUG:send_request_headers.complete
+2025-06-04 19:39:34,784 DEBUG:send_request_body.started request=<Request [b'POST']>
+2025-06-04 19:39:34,784 DEBUG:send_request_body.complete
+2025-06-04 19:39:34,784 DEBUG:receive_response_headers.started request=<Request [b'POST']>
+2025-06-04 19:39:35,390 DEBUG:receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Wed, 04 Jun 2025 17:39:35 GMT'), (b'Content-Type', b'audio/mpeg'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'personal-izxyty'), (b'openai-processing-ms', b'440'), (b'openai-version', b'2020-10-01'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'via', b'envoy-router-79fb64d7c-9jhmf'), (b'x-envoy-upstream-service-time', b'444'), (b'x-ratelimit-limit-requests', b'500'), (b'x-ratelimit-remaining-requests', b'499'), (b'x-ratelimit-reset-requests', b'120ms'), (b'x-request-id', b'req_89a906c07fb884c220eb20f1ae3dc5b5'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'94a935de988b9f82-AMS'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-06-04 19:39:35,390 INFO:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-06-04 19:39:35,390 DEBUG:receive_response_body.started request=<Request [b'POST']>
+2025-06-04 19:39:35,657 DEBUG:receive_response_body.complete
+2025-06-04 19:39:35,658 DEBUG:response_closed.started
+2025-06-04 19:39:35,658 DEBUG:response_closed.complete
+2025-06-04 19:39:35,658 DEBUG:HTTP Response: POST https://api.openai.com/v1/audio/speech "200 OK" Headers({'date': 'Wed, 04 Jun 2025 17:39:35 GMT', 'content-type': 'audio/mpeg', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'access-control-expose-headers': 'X-Request-ID', 'openai-organization': 'personal-izxyty', 'openai-processing-ms': '440', 'openai-version': '2020-10-01', 'strict-transport-security': 'max-age=31536000; includeSubDomains; preload', 'via': 'envoy-router-79fb64d7c-9jhmf', 'x-envoy-upstream-service-time': '444', 'x-ratelimit-limit-requests': '500', 'x-ratelimit-remaining-requests': '499', 'x-ratelimit-reset-requests': '120ms', 'x-request-id': 'req_89a906c07fb884c220eb20f1ae3dc5b5', 'cf-cache-status': 'DYNAMIC', 'x-content-type-options': 'nosniff', 'server': 'cloudflare', 'cf-ray': '94a935de988b9f82-AMS', 'alt-svc': 'h3=":443"; ma=86400'})
+2025-06-04 19:39:35,658 DEBUG:request_id: req_89a906c07fb884c220eb20f1ae3dc5b5
+2025-06-04 19:39:35,750 DEBUG:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-read_ahead_limit', '-1', '-i', 'cache:pipe:0', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2025-06-04 19:39:38,448 INFO:Spoke message successfully.
+2025-06-04 19:39:38,449 INFO:Assistant replied.
+2025-06-04 19:39:43,012 DEBUG:Request options: {'method': 'post', 'url': '/chat/completions', 'files': None, 'idempotency_key': 'stainless-python-retry-6d24087d-1546-4a56-b61d-d897a3dadea6', 'json_data': {'messages': [{'role': 'system', 'content': 'You are a helpful assistant for E-Visa applications. Collect only first name, last name, address, and gender. Do not ask for or mention photo. Ask for only one missing field at a time.'}, {'role': 'user', 'content': ' '}, {'role': 'assistant', 'content': 'Welcome to Eazee! I will help you fill out your visa application. What is your first name?'}, {'role': 'user', 'content': ' '}, {'role': 'assistant', 'content': 'Please provide your last name.'}, {'role': 'user', 'content': ' '}, {'role': 'assistant', 'content': 'Could you please tell me your address?'}, {'role': 'user', 'content': ' '}], 'model': 'gpt-4o-mini'}}
+2025-06-04 19:39:43,017 DEBUG:Sending HTTP Request: POST https://api.openai.com/v1/chat/completions
+2025-06-04 19:39:43,018 DEBUG:close.started
+2025-06-04 19:39:43,019 DEBUG:close.complete
+2025-06-04 19:39:43,019 DEBUG:connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=5.0 socket_options=None
+2025-06-04 19:39:43,032 DEBUG:connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x176e616d0>
+2025-06-04 19:39:43,032 DEBUG:start_tls.started ssl_context=<ssl.SSLContext object at 0x30c6e2150> server_hostname='api.openai.com' timeout=5.0
+2025-06-04 19:39:43,052 DEBUG:start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x176e60350>
+2025-06-04 19:39:43,053 DEBUG:send_request_headers.started request=<Request [b'POST']>
+2025-06-04 19:39:43,053 DEBUG:send_request_headers.complete
+2025-06-04 19:39:43,053 DEBUG:send_request_body.started request=<Request [b'POST']>
+2025-06-04 19:39:43,053 DEBUG:send_request_body.complete
+2025-06-04 19:39:43,053 DEBUG:receive_response_headers.started request=<Request [b'POST']>
+2025-06-04 19:39:43,829 DEBUG:receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Wed, 04 Jun 2025 17:39:43 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'personal-izxyty'), (b'openai-processing-ms', b'392'), (b'openai-version', b'2020-10-01'), (b'x-envoy-upstream-service-time', b'397'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9999'), (b'x-ratelimit-remaining-tokens', b'199903'), (b'x-ratelimit-reset-requests', b'8.64s'), (b'x-ratelimit-reset-tokens', b'28ms'), (b'x-request-id', b'req_afb9ab692d84c5fab8ca9f9a1e0263ea'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'94a936124f344b63-AMS'), (b'Content-Encoding', b'br'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-06-04 19:39:43,829 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-04 19:39:43,829 DEBUG:receive_response_body.started request=<Request [b'POST']>
+2025-06-04 19:39:43,830 DEBUG:receive_response_body.complete
+2025-06-04 19:39:43,830 DEBUG:response_closed.started
+2025-06-04 19:39:43,830 DEBUG:response_closed.complete
+2025-06-04 19:39:43,830 DEBUG:HTTP Response: POST https://api.openai.com/v1/chat/completions "200 OK" Headers({'date': 'Wed, 04 Jun 2025 17:39:43 GMT', 'content-type': 'application/json', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'access-control-expose-headers': 'X-Request-ID', 'openai-organization': 'personal-izxyty', 'openai-processing-ms': '392', 'openai-version': '2020-10-01', 'x-envoy-upstream-service-time': '397', 'x-ratelimit-limit-requests': '10000', 'x-ratelimit-limit-tokens': '200000', 'x-ratelimit-remaining-requests': '9999', 'x-ratelimit-remaining-tokens': '199903', 'x-ratelimit-reset-requests': '8.64s', 'x-ratelimit-reset-tokens': '28ms', 'x-request-id': 'req_afb9ab692d84c5fab8ca9f9a1e0263ea', 'strict-transport-security': 'max-age=31536000; includeSubDomains; preload', 'cf-cache-status': 'DYNAMIC', 'x-content-type-options': 'nosniff', 'server': 'cloudflare', 'cf-ray': '94a936124f344b63-AMS', 'content-encoding': 'br', 'alt-svc': 'h3=":443"; ma=86400'})
+2025-06-04 19:39:43,830 DEBUG:request_id: req_afb9ab692d84c5fab8ca9f9a1e0263ea
+2025-06-04 19:39:43,831 DEBUG:Request options: {'method': 'post', 'url': '/audio/speech', 'headers': {'Accept': 'application/octet-stream'}, 'files': None, 'idempotency_key': 'stainless-python-retry-e4466b55-ba3b-4503-bbb3-12ed893fee4e', 'json_data': {'input': 'What is your gender?', 'model': 'tts-1', 'voice': 'onyx'}}
+2025-06-04 19:39:43,832 DEBUG:Sending HTTP Request: POST https://api.openai.com/v1/audio/speech
+2025-06-04 19:39:43,832 DEBUG:send_request_headers.started request=<Request [b'POST']>
+2025-06-04 19:39:43,832 DEBUG:send_request_headers.complete
+2025-06-04 19:39:43,832 DEBUG:send_request_body.started request=<Request [b'POST']>
+2025-06-04 19:39:43,832 DEBUG:send_request_body.complete
+2025-06-04 19:39:43,833 DEBUG:receive_response_headers.started request=<Request [b'POST']>
+2025-06-04 19:39:46,383 DEBUG:receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Wed, 04 Jun 2025 17:39:44 GMT'), (b'Content-Type', b'audio/mpeg'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'personal-izxyty'), (b'openai-processing-ms', b'455'), (b'openai-version', b'2020-10-01'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'via', b'envoy-router-5cfcf8fdc-xqqp2'), (b'x-envoy-upstream-service-time', b'458'), (b'x-ratelimit-limit-requests', b'500'), (b'x-ratelimit-remaining-requests', b'499'), (b'x-ratelimit-reset-requests', b'120ms'), (b'x-request-id', b'req_e342c70ff4f25ea6b2bf6da40622f1ff'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'94a93617297e4b63-AMS'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-06-04 19:39:46,384 INFO:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-06-04 19:39:46,384 DEBUG:receive_response_body.started request=<Request [b'POST']>
+2025-06-04 19:39:46,388 DEBUG:receive_response_body.complete
+2025-06-04 19:39:46,388 DEBUG:response_closed.started
+2025-06-04 19:39:46,388 DEBUG:response_closed.complete
+2025-06-04 19:39:46,388 DEBUG:HTTP Response: POST https://api.openai.com/v1/audio/speech "200 OK" Headers({'date': 'Wed, 04 Jun 2025 17:39:44 GMT', 'content-type': 'audio/mpeg', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'access-control-expose-headers': 'X-Request-ID', 'openai-organization': 'personal-izxyty', 'openai-processing-ms': '455', 'openai-version': '2020-10-01', 'strict-transport-security': 'max-age=31536000; includeSubDomains; preload', 'via': 'envoy-router-5cfcf8fdc-xqqp2', 'x-envoy-upstream-service-time': '458', 'x-ratelimit-limit-requests': '500', 'x-ratelimit-remaining-requests': '499', 'x-ratelimit-reset-requests': '120ms', 'x-request-id': 'req_e342c70ff4f25ea6b2bf6da40622f1ff', 'cf-cache-status': 'DYNAMIC', 'x-content-type-options': 'nosniff', 'server': 'cloudflare', 'cf-ray': '94a93617297e4b63-AMS', 'alt-svc': 'h3=":443"; ma=86400'})
+2025-06-04 19:39:46,388 DEBUG:request_id: req_e342c70ff4f25ea6b2bf6da40622f1ff
+2025-06-04 19:39:46,474 DEBUG:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-read_ahead_limit', '-1', '-i', 'cache:pipe:0', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2025-06-04 19:39:47,979 INFO:Spoke message successfully.
+2025-06-04 19:39:47,979 INFO:Assistant replied.
+2025-06-04 19:39:50,525 DEBUG:Gender extracted (history): 
+2025-06-04 19:39:50,531 DEBUG:Request options: {'method': 'post', 'url': '/chat/completions', 'files': None, 'idempotency_key': 'stainless-python-retry-35384a5d-ae28-4638-b4ce-2abd652e3975', 'json_data': {'messages': [{'role': 'system', 'content': 'You are a helpful assistant for E-Visa applications. Collect only first name, last name, address, and gender. Do not ask for or mention photo. Ask for only one missing field at a time.'}, {'role': 'user', 'content': ' '}, {'role': 'assistant', 'content': 'Welcome to Eazee! I will help you fill out your visa application. What is your first name?'}, {'role': 'user', 'content': ' '}, {'role': 'assistant', 'content': 'Please provide your last name.'}, {'role': 'user', 'content': ' '}, {'role': 'assistant', 'content': 'Could you please tell me your address?'}, {'role': 'user', 'content': ' '}, {'role': 'assistant', 'content': 'What is your gender?'}, {'role': 'user', 'content': ' '}], 'model': 'gpt-4o-mini'}}
+2025-06-04 19:39:50,532 DEBUG:Sending HTTP Request: POST https://api.openai.com/v1/chat/completions
+2025-06-04 19:39:50,532 DEBUG:send_request_headers.started request=<Request [b'POST']>
+2025-06-04 19:39:50,536 DEBUG:send_request_headers.complete
+2025-06-04 19:39:50,536 DEBUG:send_request_body.started request=<Request [b'POST']>
+2025-06-04 19:39:50,536 DEBUG:send_request_body.complete
+2025-06-04 19:39:50,537 DEBUG:receive_response_headers.started request=<Request [b'POST']>
+2025-06-04 19:39:51,796 DEBUG:receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Wed, 04 Jun 2025 17:39:51 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'personal-izxyty'), (b'openai-processing-ms', b'832'), (b'openai-version', b'2020-10-01'), (b'x-envoy-upstream-service-time', b'847'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9997'), (b'x-ratelimit-remaining-tokens', b'199897'), (b'x-ratelimit-reset-requests', b'18.423s'), (b'x-ratelimit-reset-tokens', b'30ms'), (b'x-request-id', b'req_dc849f08a857b1ce976dac2be40f1830'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'94a9364118d64b63-AMS'), (b'Content-Encoding', b'br'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-06-04 19:39:51,796 INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-04 19:39:51,797 DEBUG:receive_response_body.started request=<Request [b'POST']>
+2025-06-04 19:39:51,797 DEBUG:receive_response_body.complete
+2025-06-04 19:39:51,797 DEBUG:response_closed.started
+2025-06-04 19:39:51,797 DEBUG:response_closed.complete
+2025-06-04 19:39:51,798 DEBUG:HTTP Response: POST https://api.openai.com/v1/chat/completions "200 OK" Headers({'date': 'Wed, 04 Jun 2025 17:39:51 GMT', 'content-type': 'application/json', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'access-control-expose-headers': 'X-Request-ID', 'openai-organization': 'personal-izxyty', 'openai-processing-ms': '832', 'openai-version': '2020-10-01', 'x-envoy-upstream-service-time': '847', 'x-ratelimit-limit-requests': '10000', 'x-ratelimit-limit-tokens': '200000', 'x-ratelimit-remaining-requests': '9997', 'x-ratelimit-remaining-tokens': '199897', 'x-ratelimit-reset-requests': '18.423s', 'x-ratelimit-reset-tokens': '30ms', 'x-request-id': 'req_dc849f08a857b1ce976dac2be40f1830', 'strict-transport-security': 'max-age=31536000; includeSubDomains; preload', 'cf-cache-status': 'DYNAMIC', 'x-content-type-options': 'nosniff', 'server': 'cloudflare', 'cf-ray': '94a9364118d64b63-AMS', 'content-encoding': 'br', 'alt-svc': 'h3=":443"; ma=86400'})
+2025-06-04 19:39:51,798 DEBUG:request_id: req_dc849f08a857b1ce976dac2be40f1830
+2025-06-04 19:39:51,799 DEBUG:Request options: {'method': 'post', 'url': '/audio/speech', 'headers': {'Accept': 'application/octet-stream'}, 'files': None, 'idempotency_key': 'stainless-python-retry-16c75d45-c752-4bf9-b1b8-e6aed4baf1da', 'json_data': {'input': 'It seems I may not be receiving your responses. Could you please provide your first name?', 'model': 'tts-1', 'voice': 'onyx'}}
+2025-06-04 19:39:51,800 DEBUG:Sending HTTP Request: POST https://api.openai.com/v1/audio/speech
+2025-06-04 19:39:51,800 DEBUG:send_request_headers.started request=<Request [b'POST']>
+2025-06-04 19:39:51,801 DEBUG:send_request_headers.complete
+2025-06-04 19:39:51,801 DEBUG:send_request_body.started request=<Request [b'POST']>
+2025-06-04 19:39:51,801 DEBUG:send_request_body.complete
+2025-06-04 19:39:51,801 DEBUG:receive_response_headers.started request=<Request [b'POST']>
+2025-06-04 19:39:53,181 DEBUG:receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Wed, 04 Jun 2025 17:39:52 GMT'), (b'Content-Type', b'audio/mpeg'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'personal-izxyty'), (b'openai-processing-ms', b'473'), (b'openai-version', b'2020-10-01'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'via', b'envoy-router-7545574489-92vx5'), (b'x-envoy-upstream-service-time', b'480'), (b'x-ratelimit-limit-requests', b'500'), (b'x-ratelimit-remaining-requests', b'499'), (b'x-ratelimit-reset-requests', b'120ms'), (b'x-request-id', b'req_64154e84ce52bcd4b885afcf61353745'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'94a93648fa8e4b63-AMS'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-06-04 19:39:53,182 INFO:HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2025-06-04 19:39:53,182 DEBUG:receive_response_body.started request=<Request [b'POST']>
+2025-06-04 19:39:53,203 DEBUG:receive_response_body.complete
+2025-06-04 19:39:53,203 DEBUG:response_closed.started
+2025-06-04 19:39:53,203 DEBUG:response_closed.complete
+2025-06-04 19:39:53,204 DEBUG:HTTP Response: POST https://api.openai.com/v1/audio/speech "200 OK" Headers({'date': 'Wed, 04 Jun 2025 17:39:52 GMT', 'content-type': 'audio/mpeg', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'access-control-expose-headers': 'X-Request-ID', 'openai-organization': 'personal-izxyty', 'openai-processing-ms': '473', 'openai-version': '2020-10-01', 'strict-transport-security': 'max-age=31536000; includeSubDomains; preload', 'via': 'envoy-router-7545574489-92vx5', 'x-envoy-upstream-service-time': '480', 'x-ratelimit-limit-requests': '500', 'x-ratelimit-remaining-requests': '499', 'x-ratelimit-reset-requests': '120ms', 'x-request-id': 'req_64154e84ce52bcd4b885afcf61353745', 'cf-cache-status': 'DYNAMIC', 'x-content-type-options': 'nosniff', 'server': 'cloudflare', 'cf-ray': '94a93648fa8e4b63-AMS', 'alt-svc': 'h3=":443"; ma=86400'})
+2025-06-04 19:39:53,204 DEBUG:request_id: req_64154e84ce52bcd4b885afcf61353745
+2025-06-04 19:39:53,274 DEBUG:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-read_ahead_limit', '-1', '-i', 'cache:pipe:0', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2025-06-04 19:39:58,512 INFO:Spoke message successfully.
+2025-06-04 19:39:58,512 INFO:Assistant replied.
+2025-06-04 19:39:58,827 DEBUG:Calling on_part_begin with no data
+2025-06-04 19:39:58,827 DEBUG:Calling on_header_field with data[42:61]
+2025-06-04 19:39:58,828 DEBUG:Calling on_header_value with data[63:108]
+2025-06-04 19:39:58,828 DEBUG:Calling on_header_end with no data
+2025-06-04 19:39:58,828 DEBUG:Calling on_header_field with data[110:122]
+2025-06-04 19:39:58,828 DEBUG:Calling on_header_value with data[124:148]
+2025-06-04 19:39:58,828 DEBUG:Calling on_header_end with no data
+2025-06-04 19:39:58,828 DEBUG:Calling on_headers_finished with no data
+2025-06-04 19:39:58,829 DEBUG:Calling on_part_data with data[152:261576]
+2025-06-04 19:39:58,834 DEBUG:Calling on_part_data with data[0:262144]
+2025-06-04 19:39:58,835 DEBUG:Calling on_part_data with data[0:262144]
+2025-06-04 19:39:58,838 DEBUG:Calling on_part_data with data[0:262144]
+2025-06-04 19:39:58,843 DEBUG:Calling on_part_data with data[0:187632]
+2025-06-04 19:39:58,846 DEBUG:Calling on_part_data with data[0:262144]
+2025-06-04 19:39:58,848 DEBUG:Calling on_part_data with data[0:262144]
+2025-06-04 19:39:58,849 DEBUG:Calling on_part_data with data[0:262144]
+2025-06-04 19:39:58,850 DEBUG:Calling on_part_data with data[0:262144]
+2025-06-04 19:39:58,851 DEBUG:Calling on_part_data with data[0:262144]
+2025-06-04 19:39:58,852 DEBUG:Calling on_part_data with data[0:262144]
+2025-06-04 19:39:58,853 DEBUG:Calling on_part_data with data[0:262144]
+2025-06-04 19:39:58,853 DEBUG:Calling on_part_data with data[0:262144]
+2025-06-04 19:39:58,854 DEBUG:Calling on_part_data with data[0:262144]
+2025-06-04 19:39:58,855 DEBUG:Calling on_part_data with data[0:262144]
+2025-06-04 19:39:58,855 DEBUG:Calling on_part_data with data[0:262144]
+2025-06-04 19:39:58,856 DEBUG:Calling on_part_data with data[0:262144]
+2025-06-04 19:39:58,857 DEBUG:Calling on_part_data with data[0:60138]
+2025-06-04 19:39:58,857 DEBUG:Calling on_part_end with no data
+2025-06-04 19:39:58,857 DEBUG:Calling on_end with no data
+2025-06-04 19:39:58,937 DEBUG:Calling on_part_begin with no data
+2025-06-04 19:39:58,938 DEBUG:Calling on_header_field with data[42:61]
+2025-06-04 19:39:58,938 DEBUG:Calling on_header_value with data[63:108]
+2025-06-04 19:39:58,938 DEBUG:Calling on_header_end with no data
+2025-06-04 19:39:58,938 DEBUG:Calling on_header_field with data[110:122]
+2025-06-04 19:39:58,938 DEBUG:Calling on_header_value with data[124:148]
+2025-06-04 19:39:58,938 DEBUG:Calling on_header_end with no data
+2025-06-04 19:39:58,938 DEBUG:Calling on_headers_finished with no data
+2025-06-04 19:39:58,938 DEBUG:Calling on_part_data with data[152:261576]
+2025-06-04 19:39:58,939 DEBUG:Calling on_part_data with data[0:262144]
+2025-06-04 19:39:58,940 DEBUG:Calling on_part_data with data[0:262144]
+2025-06-04 19:39:58,941 DEBUG:Calling on_part_data with data[0:262144]
+2025-06-04 19:39:58,942 DEBUG:Calling on_part_data with data[0:262144]
+2025-06-04 19:39:58,944 DEBUG:Calling on_part_data with data[0:262144]
+2025-06-04 19:39:58,947 DEBUG:Calling on_part_data with data[0:153876]
+2025-06-04 19:39:58,948 DEBUG:Calling on_part_data with data[0:262144]
+2025-06-04 19:39:58,949 DEBUG:Calling on_part_data with data[0:262144]
+2025-06-04 19:39:58,949 DEBUG:Calling on_part_data with data[0:262144]
+2025-06-04 19:39:58,951 DEBUG:Calling on_part_data with data[0:262144]
+2025-06-04 19:39:58,951 DEBUG:Calling on_part_data with data[0:262144]
+2025-06-04 19:39:58,952 DEBUG:Calling on_part_data with data[0:262144]
+2025-06-04 19:39:58,953 DEBUG:Calling on_part_data with data[0:262144]
+2025-06-04 19:39:58,954 DEBUG:Calling on_part_data with data[0:262144]
+2025-06-04 19:39:58,955 DEBUG:Calling on_part_data with data[0:262144]
+2025-06-04 19:39:58,956 DEBUG:Calling on_part_data with data[0:262144]
+2025-06-04 19:39:58,957 DEBUG:Calling on_part_data with data[0:93894]
+2025-06-04 19:39:58,957 DEBUG:Calling on_part_end with no data
+2025-06-04 19:39:58,957 DEBUG:Calling on_end with no data
