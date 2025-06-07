@@ -1,8 +1,0 @@
-Gradio
-openai
-pydub
-opencv-python
-fpdf
-python-dotenv
-speechrecognition
-numpy
